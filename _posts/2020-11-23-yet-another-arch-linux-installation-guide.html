@@ -1,0 +1,224 @@
+---
+layout: post
+title: Yet Another Arch Linux Installation Guide
+date: 2020-11-23 14:14:05.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- English
+- Tech
+tags:
+- archlinux
+- gnu/linux
+- Linux Installation
+- poweruser
+- Tutorial
+- virtualbox
+- youtube
+meta:
+  _thumbnail_id: '1631'
+  _last_editor_used_jetpack: block-editor
+  _oembed_9653cd8573d56d114fa0548061f5bf13: "{{unknown}}"
+  _publicize_job_id: '51386202737'
+  timeline_notification: '1606140850'
+author:
+  login: soimuen
+  email: madlibrarian@yahoo.com
+  display_name: Phil Wayne
+  first_name: Philippe
+  last_name: Wayne
+permalink: "/2020/11/23/yet-another-arch-linux-installation-guide/"
+excerpt: I have not played around in VirtualBox in a few weeks, except to have a quick
+  first look at MageiaOS (which will be the subject of a later post and video). Since
+  I am in great need of one to demonstrate things in future YouTube videos, I figured
+  I would install Arch Linux for the second time on camera.
+---
+<p><!-- wp:paragraph {"align":"center","fontSize":"medium"} --></p>
+<p class="has-text-align-center has-medium-font-size"><strong><em>My Dearest Mad-Readers</em></strong>,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I had not played around in <strong><a rel="noreferrer noopener" href="https://www.virtualbox.org/" target="_blank">VirtualBox</a></strong> in a few weeks, except to have a quick first look at <strong><a rel="noreferrer noopener" href="https://wiki.mageia.org/en/Documentation" target="_blank">MageiaOS</a></strong> (which will be the subject of a later post and video). Since I am in great need of a <strong>Virtual Machine</strong> to demonstrate things in <strong><a rel="noreferrer noopener" href="https://www.youtube.com/channel/UCsem4aDdFN9x719N9EPZkww" target="_blank">future YouTube videos</a></strong>, I figured I would install <strong><a rel="noreferrer noopener" href="https://wiki.archlinux.org/index.php/Installation_guide" target="_blank">Arch Linux</a></strong> and seize this opportunity to re-work a <strong>guide</strong> I wrote many months ago.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><em>Shred Of Nostalgia</em></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Since  I have already done it once on camera, I will not do it again today. If you are curious, here is <a href="https://www.youtube.com/watch?v=N-AnwsxOFlU" target="_blank" rel="noreferrer noopener">my very first YouTube video</a>. You may compare it with my latest ones and notice there (<em>hopefully</em>) has been some progress over the months. You can also use this video as a guide, since it goes through the whole installation process in a Virtual Machine, <em><strong>from zero to Xorg</strong></em>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:embed {"url":"https:\/\/www.youtube.com\/watch?v=N-AnwsxOFlU","type":"rich","providerNameSlug":"youtube","responsive":true,"align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
+<figure class="wp-block-embed aligncenter is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=N-AnwsxOFlU
+</div>
+</figure>
+<p><!-- /wp:embed --></p>
+<p><!-- wp:heading --></p>
+<h2>Some Of Its U<strong>psides</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The first and most obvious one is its <strong>community</strong>. Arch has a wide community of passionate users and it is a rare thing not to be able to find an answer to a question or an issue you may have. This is a huge advantage.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The second one is its <strong><a rel="noreferrer noopener" href="https://www.archlinux.org/" target="_blank">documentation</a></strong>. As a beginner, and sometimes even now (becomes do not be fooled, I am no expert), I struggled a lot with documentation. Today, I am ready to acknowledge that Arch has the best documentation out there. Gentoo is a fair competitor but, in my humble opinion, Arch is doing a slightly better job. You want proof? I switched to Gentoo and still search for solutions to my issues in their documentation (if I didn't find it in Gentoo's)!</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The third advantage is its <strong>package manager</strong>. Let's face it, <strong>pacman</strong> rules. Plus, who wouldn't like watching pacman updating their system? You also get the <strong>AUR</strong>, and that cannot stay overlooked!</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Its Main Downside</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">You see, even though arch gives you much freedom, I believe it still does not give you enough. When running Arch, like with most other distributions, you cannot choose whether you will install the dependencies of a program or not. You have no choice. If you want to install <strong>gdm</strong> (gnome-display-manager), for instance, you have to install all its dependencies (like gnome-sessions). Same thing when updating your system: what if you do not want to update a package? Well, again you have no choice. As for Gentoo-based distributions, they have a nice way for fixing this issue, but this will be the topic for another post. If you are curious, check out "Gentoo <a rel="noreferrer noopener" href="https://wiki.gentoo.org/wiki/World_set_(Portage)" target="_blank">@world</a> file".</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I could go on for hours speaking about Arch, or I could actually explain how to install it. So let us move on to the second part of this post: installing Arch. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">You want to proceed methodically. It is no difficult task, but it is easy to forget something and go through avoidable trouble just because you felt like going faster than you should have. Just take things slow, alright? There is no rush!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong><em>RTFM</em></strong> (please)</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">You may not be familiar with this abbreviation. If you are not, it is a <em>friendly</em> way of saying that you should open this link in a new tab: <em><strong>https://wiki.archlinux.org/index.php/Installation_guide</strong></em>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><strong>Reading the manual</strong> is, in my experience, <strong>the most valuable skill you should practice above all others</strong>. Why? Because it will open the gates to the kingdom of knowledge to you. What does it matter if you know a programming language if you do not know what has changed from one day to the next, what has become deprecated overnight? Just learn reading. It is the most useful skill of all, and it should get you through the process of installing all the Linux distributions in the market without having to read long blog posts (such as this one).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Needless to say, I expect you to follow along with <a rel="noreferrer noopener" href="https://wiki.archlinux.org/index.php/Installation_guide" target="_blank">Arch installation guide</a> opened in another tab. All the commands which you will need are clearly laid out on their guide. There really is <em>no point</em> in copy-pasting them here one more time, right?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Virtualbox</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Whatever virtualization tool you want to use does not matter, but if you have never installed a distribution, <strong>it is helpful to get into the habit of trying and making mistakes in a safe environment</strong>. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I will just use VirtualBox (you guessed it), because I am used to it. Just do the same if you have no idea what else to use. It is <strong>free and opensource</strong>, which should be enough to convince you.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Download Arch's ISO Image</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Pick a mirror on this page <strong><a href="https://www.archlinux.org/download/">https://www.archlinux.org/download/</a> </strong>and download the <strong>ISO</strong> file which you will need to boot the live environment. For a faster download, select a mirror which is as close to your location as possible.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">When you have done it, you may or may not verify the image signature. As this is (is it not?) a tutorial, I <strong>strongly recommend</strong> verifying it. As I am going to do the whole thing in a virtual machine, I will not bother doing it. It is the whole point of virtual machine... you know... breaking things (and then fixing them, let us be <em>serious</em> for a second).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Are you done verifying the signature and all? OK! Let's move on! Get psyched, it should get more interesting from here. I mean, soon you should have the satisfaction of having installed the "most difficult" (LOL?) linux system, so get ready to be proud of yourself, alright?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Boot The Live Environment</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Fire up virtualbox. It is done? Good. Now, click on "New". It is the button on the left of "Settings" and next to "Tools" at the top of your screen. I know, it is SO accurate... but you are so talented I am absolutely sure you will find where it is. After clicking on "New", name your virtual machine "Arch Linux" (or whatever...), select "Linux" for the "type" drop-down and "archlinux" for the "version" drop-down. Then click next. You can keep the default settings for the memory you want to allocate your virtual machine. I personally like to give it 2048Mo, but you are free to do whatever you feel like doing. I mean, we are Linux users, freedom is our kingdom, init? (hum, systemd? Moving on...)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Just keep the default settings for most things. The only thing I would really recommend that you do is that you increase the size of your virtual disk. You would not go very far with just 8G, so move it up to 15G, alright? Click next and... Yay, you are done! Oh, no actually there is one last thing.  Press the "start button". </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Now, it is very important that you select the right <strong>iso</strong>. If you are a normal person (as normal as you can be cause you are installing arch, guys). If you do not, I have to tell you that you probably would not be installing arch. Sorry...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Mess In The Live Environment</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Be curious, fire an "ls". You should at least see "install.txt". from now until the end of this installation, this file is your best friend. Or, if you are like me and you have wi-fi, the arch wiki does a pretty good job on its own. If you are in the US, the good news is that you should not have to change your keyboard layout. For the others, if you have to change the keyboard layout, #RTFM. I have not counted how many times my brother told me to RTFM, so I am proud to do just like him today. You will thank me one day. I am sure you will. I mean, I hope you will...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>You will, right?</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>BIOS or UEFI</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list {"backgroundColor":"light-gray"} --></p>
+<ul class="has-light-gray-background-color has-background">
+<li><em><strong>ls /sys/firmware/efi/efivars</strong></em></li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">This command is most important. You need to know whether you are in UEFI or BIOS mode. That is why I took the time to type this command here. If you want the installation process to go well, do not neglect this step!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Connect To The Internet</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">If you are following my advice (you better be :p), then just run <em><strong>ping google.com</strong></em> and you should soon realize that you are connected to the internet. When you found out that you are, just read the next two sections of the installation guide: <strong>Update the system clock &amp; Partition the disk</strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">If you are going head-on and installing Arch on an actual machine, it is to be expected that you will have no internet connection. I recommend you check out <a rel="noreferrer noopener" href="https://wiki.archlinux.org/index.php/Iwctl" target="_blank">this link</a> then. You will soon discover that connecting to a network is a piece of cake. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Is it though?</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I do not believe you will need any help regarding the <strong>system clock</strong>, but I will say a quick word on <strong>partitioning</strong>. If this is your first install of arch, just keep things as simple as possible. Use <strong>cfdisk</strong>, you may find it much more clear than <strong>fdisk</strong>, and keep a simple partition layout. Create a partition for <strong>root</strong>, aka<strong> /</strong> and a <strong>swap</strong> partition. As a rule of thumb, the swap partition should be twice the size of your RAM. Otherwise you will not be able to enable <strong>hibernation</strong> on your newly-installed system. Since I expect all of you to be working in a <strong>VM</strong>, you do not <strong>have to</strong> make a swap partition. Who would hibernate a VM when you can simply save its state?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">When you are satisfied with your partition scheme, move on to<a rel="noreferrer noopener" href="https://wiki.archlinux.org/index.php/Installation_guide#Format_the_partitions" target="_blank"> <strong><em>Format the partition</em></strong> </a><em>&amp;</em> <strong><em><a rel="noreferrer noopener" href="https://wiki.archlinux.org/index.php/Installation_guide#Mount_the_file_systems" target="_blank">Mount the file systems</a></em></strong>. These two sections are quite self-explanatory and there is a lot of copy-pasting going on, so I will not dwell on them. Same with "<strong>selecting the mirrors</strong>". </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I will merely add that you want to <strong>only</strong> <strong>keep the mirrors closest to you</strong>. if you live in the USA, keep 4 or 5 mirrors located in the USA and delete the others (or comment them out, your choice).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Installing Essential Packages</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">When you run this command: <strong>pacstrap /mnt base linux linux-firmware</strong>, I recommend that you install <strong>vim</strong>, <strong>neovim</strong> (or <strong>emacs</strong>, if you want to feel different). </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Do not forget to install a network manager as well. I recommend <strong>networkmanager</strong>. Also, do not forget the packages to access the <strong>man </strong>and<strong> info </strong>pages. You never know, you might need to <em>RTFM</em>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Users</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you want to be able to log in, it can be nice to set a password for&nbsp;<strong>root</strong>, and while you are at it, you may as well create another user...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>...and set its password too!</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Rebooting</strong> &amp; <em>Praying</em></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Once you have done that, there is only one thing left to do: exit the chroot environment &amp; reboot (I know, that’s two). Or… no, actually, I believe there IS one thing we have forgotten to do: </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>The boot loader!</strong> </em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I recommend you install&nbsp;<em><strong><a rel="noreferrer noopener" href="https://wiki.archlinux.org/index.php/GRUB" target="_blank">grub</a></strong>&nbsp;</em>and then configure it with the commands provided in the arch wiki. Be careful though, <strong>the commands are not the same if you are on BIOS or UEFI mode</strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Congratulations</strong> <em>&amp; Sign-Off</em></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Did you pray hard enough? Has it worked? If it has, you can be proud of yourself. You are one step closer to becoming  a power-user. <strong>If it has not, you can still be proud of yourself!</strong> Re-read this tutorial, study some more the arch-wiki and give it another go. Do not give up! Your curiosity led you to arch, this is no coincidence. You have a lot of potential, so <strong>USE IT</strong>. Always keep learning!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Any program to recommend? Any constructive comment on this short guide? </strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I hope you liked it and that it was helpful. If you did, consider supporting me by subscribing to my blog, via email or Wordpress, or to my YouTube channel. You are also welcome to spend some more time here too! If you are facing any difficulties, let me know too! Shoot me an email, or comment below ;)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Take care,</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Phil</strong>.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":270,"width":80,"height":15,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large is-resized"><img src="{{ site.baseurl }}/assets/2020/11/copyright.png?w=80" alt="" class="wp-image-270" width="80" height="15" /></figure>
+<p><!-- /wp:image --></p>

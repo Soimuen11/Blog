@@ -1,0 +1,142 @@
+---
+layout: post
+title: Open Source Programs I Use Most Often
+date: 2021-04-07 01:00:00.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- English
+- Tech
+tags:
+- Gentoo
+- gnu
+- GUI
+- linux
+- Open Source
+- operating system
+- software
+- Terminal
+meta:
+  _last_editor_used_jetpack: block-editor
+  _thumbnail_id: '4657'
+  _publicize_job_id: '56861584343'
+  timeline_notification: '1617757217'
+author:
+  login: soimuen
+  email: madlibrarian@yahoo.com
+  display_name: Phil Wayne
+  first_name: Philippe
+  last_name: Wayne
+permalink: "/2021/04/07/open-source-programs-i-use-most-often/"
+excerpt: 'I would like to speak about my entire system’s configuration today, in terms
+  of the programs I use the most often. I will start with the least obvious (that
+  is the OS or Linux distribution) and go on to the most obvious (programs you run
+  after the booting process is complete). I split this article into 3 main sections:'
+---
+<p><!-- wp:paragraph {"align":"center","fontSize":"medium"} --></p>
+<p class="has-text-align-center has-medium-font-size"><em><strong>My Dearest Mad-Readers,</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I would like to speak about my entire <strong>system’s configuration</strong> today, in terms of the <strong>programs</strong> I use the most often. I will start with the least obvious (that is the <strong>OS </strong>or<strong> Linux distribution</strong>) and go on to the most obvious (programs you run after the<strong> booting process </strong>is complete). I split this article into 3 main sections:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>My system</li>
+<li>Terminal-based software</li>
+<li>GUI-based software</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>A Quick Word Of Apology</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Before going any farther into the video, I would like to apologize for the awful sound quality in my last 2 videos. I recorded with audacity for the first time and, as you certainly all heard, I struggled finding my way around it. I only got one comment telling me how terrible the sound was but I need to say I am very sorry ^_^</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>The <strong>Overall</strong> Configuration Of My System</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">My computer is a refurbished <strong>Thinkpad T440</strong>. I have had it for almost 2 years and am still extremely satisfied with its overall performance. It originally shipped with Windows 10 but I removed it for Manjaro Linux. At this point however, I am no longer running Manjaro. If you have been following me for the past few months, you will be aware that I switched to <strong>Gentoo</strong> in October 2020.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Regarding the<strong> boot loader</strong>, I use <strong>GRUB</strong> (<strong>Gr</strong>and <strong>U</strong>nified <strong>B</strong>oot Loader) like approximately 90% of Linux users. I know there are some other great boot loaders out there but I am not sold yet. It is easily installable and customizable, so I do not yet see a point in switching away from it, except for the accusation that it is bloat software.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">You may be surprised with this, but I do not have a display manager (also known as <strong>login</strong> <strong>manager</strong>). I used to have <strong>LXDM</strong> (which ships with LXDE desktop environment) but I had some issues with it, so I got rid of it. Today, I only have the <strong>xorg-xinit</strong> package installed. It offers the <strong>startx </strong>command and I am very happy with it. It does have a dark appearance but it does the job. After all, I do not turn on my computer to masturbate on the login area.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Again, If you have been following me for at least a few months, you will already know which window managers I prefer: <strong>Dwm</strong> and <strong>Awesome WM</strong>. As I am writing this, I actually have not turned on dwm in a week. I tend to go back and forth between the 2 of them, however. They both have their ups and downs. I like the interface of Awesome better, but I still feel like my dwm is much more customized, since I have spent more time making it my own. I also met with more difficulty. Awesome is very straightforward to configure in comparison.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Terminal-based Programs</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I have <strong>2 terminal emulators</strong> on my main machine: <strong>St</strong> (the <strong>s</strong>imple <strong>t</strong>erminal) and <strong>Alacritty</strong>, which is a more modern terminal emulator written in Rust. You probably all are familiar with the tendency to re-write all programs in Rust these days. Well, the fact that I installed Alacritty does not mean that I support this movement. I only wanted to test out something new and have a spare terminal in case one stops working properly.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">My main shell is <strong>Zsh</strong> (the Z Shell). I also have <strong>Bash</strong> installed because I write all my scripts in bash. This is for one reason and one reason only: portability. It is much more likely that you will have Bash as your main shell since it is the one which comes by default on most machines. I see it as a norm, and it also is the one I learned first. For browsing in my terminal, I would much rather use Zsh however, since it is much more modern but also more powerful in terms of command completion. That is reason enough.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><strong>Moc</strong> is not the best terminal-based music player on the market but I love it. This is why I have never turned my back on it and do not intend to do it. If it is not the best objectively, but it is what matches my expectations best. I did try other music players such as <strong>musikcube</strong> or <strong>cmus</strong>, but they have not convinced me. Moc allowed me to listen to music in the terminal when I still was a very beginner, and no program can rivalise with this, even if it is 100 times better.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I recently started reading <strong>RSS feeds</strong>. This mainly is because I listen to good feedback from my subscribers, and when one of you told me to install <strong>newsboat…</strong> Well, so I did. I was easily convinced, let me tell you: thanks to newsboat, I can watch my favorite YouTube content creators’ videos directly from my terminal. I have everything in the same place: my YouTube subscriptions, the blogs and news feeds I am the most interested in following. Everything. It also has a great advantage: I consume less content from YouTube. This allows me to spend more time doing more important things, such as creating content for this channel.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Another program I use a lot is my text editor: I run <strong>vim</strong> and <strong>neovim</strong> interchangeably and with the exact same configuration. Most often I just edit <strong>markdown</strong> <strong>files</strong> (when I need to jot down notes, for instance) but I also use <strong>LaTeX</strong> to edit more important documents, such as books or short stories. I happen to be more of a <strong>writer</strong> than a <strong>programer</strong>, which is probably why I enjoy <strong>shell scripting</strong> so much more than spending hours working on hundreds of lines of code.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">For adding subtitles and extracting audio tracks from videos, <strong>ffmpeg</strong> is my best friend. I no longer use it to shoot my videos but it is really nice to have it around when more modern GUI-based programs over-complicate things too much. With ffmpeg, you just throw one command into your terminal and <em>***poof!***</em>, you are done.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Regarding all the terminal commands I use the most, I am not going to list them all here. Neofetch, vifm, youtube-dl, ncdu, bat, cat, grep, xbacklight, alsamixer, htop, dmenu, man… It would certainly take the whole day if I went on and I would probably even forget things. If you are interested in reading such an article however, leave a comment below!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>GUI-based Programs (With Graphical User Interface)</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">When I am not roaming about in <strong>alacritty</strong> or <strong>st</strong>, I usually fire up my <strong>web browser</strong> and my <strong>emails</strong>. I have several browsers installed on my main machine: <strong>brave</strong>, <strong>qutebrowser</strong>, <strong>firefox</strong>. Each I use for a different purpose. I do most of my browsing with brave, since it is <em>fast</em> and, as far as I can tell, <em>secure</em>.I keep the qutebrowser clean of any tabs for my videos. This way, my spectators’ view does not get polluted by everything I do online. Finally, I have Firefox for all web apps which I use but do not trust 100%. Those which rely on the middle ware, for instance, such as Google-based apps, YouTube, Zoom, and so on. Having several browsers also allow me to perform tests when programming.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Regarding my emails: I still am a rather faithful <strong>Thunderbird </strong>user. Thunderbird does way too much, however. I only use it for emails, and it is a bit of a waste. I have been looking for a replacement for a while. I have considered <strong>Gnome Evolution</strong> and <strong>Alpine</strong> (Terminal-based) to replace it but, as of today, I have not moved on to anything new.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">When it comes to creating content, I have several programs:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><strong>Aegisub</strong>: Editing and timing subtitles.</li>
+<li><strong>Kdenlive</strong>: Video editing, adding effects, music, etc.</li>
+<li><strong>Obs</strong>: Filming my screen (or with my webcam), recording my voice.</li>
+<li><strong>Audacity</strong>: Recording my voice and increasing the quality of the audio with effects such as compressing</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">When I do not create content, I enjoy consuming it with <strong>vlc</strong> or <strong>mpv</strong>,which both are media players. Both work with and without a GUI. By the way, I highly recommend <strong>cvlc</strong> and <strong>nvlc</strong>, the latter being vlc with an <strong>ncurses</strong> interface.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Since I also write blog posts (as you all know), I need something such as <strong>LibreOffice Writer</strong> to edit them on my local machine. Keeping them on <strong>WordPress</strong> only would not be very responsible of me.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I do have other programs such as Zeal (for offline documentation), pavucontrol (to manage sound), and other I might have forgotten, but I do not open them everyday.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Conclusion &amp; Sign-Off</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I hope you all enjoyed this little overview of my system and software. If you have any suggestions, whether it be terminal or gui-based, feel free to shoot a comment.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Cheers,</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Phil.</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"align":"center","id":833,"sizeSlug":"large","linkDestination":"none"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="{{ site.baseurl }}/assets/2021/04/copyright.png?w=80" alt="" class="wp-image-833" /></figure>
+</div>
+<p><!-- /wp:image --></p>

@@ -1,0 +1,259 @@
+---
+layout: post
+title: 'Distro-Hopping Again: Confronting Distributions & Their Philosophies'
+date: 2020-12-14 03:00:00.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- English
+- Tech
+tags:
+- Arch Linux
+- Artix
+- Crux
+- distributions
+- distro-hopping
+- Gentoo
+- GNU Linux
+- Linux From Scratch
+- SlackWare
+- Void Linux
+meta:
+  timeline_notification: '1607914818'
+  _publicize_job_id: '52197099968'
+  _last_editor_used_jetpack: block-editor
+  _thumbnail_id: '4069'
+author:
+  login: soimuen
+  email: madlibrarian@yahoo.com
+  display_name: Phil Wayne
+  first_name: Philippe
+  last_name: Wayne
+permalink: "/2020/12/14/distro-hopping-again-confronting-distributions-their-philosophies/"
+excerpt: For about one week or a little bit more, I have been thinking about distro-hopping
+  again. I have enjoyed myself on Gentoo, I really have. I discovered USE FLAGS, C
+  FLAGS, an almost flawless documentation, compiling every program from source, overlays
+  (which are the equivalent of the Arch AUR, if you aren't familiar with them), and
+  countless other features which are specific to Gentoo.
+---
+<p><!-- wp:paragraph {"align":"center","fontSize":"medium"} --></p>
+<p class="has-text-align-center has-medium-font-size"><strong><em>My Dearest Mad-Readers,</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">You are probably familiar with the fact that I tend to <strong>switch</strong> <strong>Linux distribution</strong> from time to time: This is <strong>technically</strong> known as <strong>distro-hopping</strong>. Today, I wish to speak about <strong><a href="http://www.slackware.com/" target="_blank" rel="noreferrer noopener">SlackWare</a></strong>, <strong><a href="https://crux.nu/Main/Handbook3-4#ntoc3" target="_blank" rel="noreferrer noopener">Crux</a></strong>, <strong><a href="http://voidlinux.org" target="_blank" rel="noreferrer noopener">Void</a>, <a href="https://artixlinux.org/" target="_blank" rel="noreferrer noopener">Artix</a>, <a href="http://gentoo.org" target="_blank" rel="noreferrer noopener">Gentoo</a></strong>, and <strong><a href="http://archlinux.org" target="_blank" rel="noreferrer noopener">Arch Linux</a></strong>. I would like to <strong>compare</strong> them in order to get a better ability to choose one among them.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>My Latest YouTube Video</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">If you wish, you can watch my latest YouTube video, which actually is roughly the same as this blog post but in audio format. Here it is:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:embed {"url":"https:\/\/youtu.be\/vWy5ikO5c6k","type":"rich","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
+<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+https://youtu.be/vWy5ikO5c6k
+</div>
+</figure>
+<p><!-- /wp:embed --></p>
+<p><!-- wp:heading --></p>
+<h2>Disclaimer</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Before we get to the meat of the subject, I would just like to quickly say something important about the identity of this channel. In a conversation, I usually do not like saying something when I do not have anything interesting to bring to the table. This metaphorically means that you should not expect me to publish a video every single week. I do not want YouTube to become a constraint. It has to remain a pleasure, just like blogging. If I don't have something interesting to show you, or at least if I consider my work not interesting or polished enough, I will not publish anything.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Distrohopping: Gentoo, Arch &amp; My Other Options</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Alright then, now that this is clear, let us move on to my distro-hopping problem. Is it a problem, though? I am not so sure. I rather believe that it is the solution to a much bigger issue: <strong>My insatisfaction</strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><em>This</em> is a problem indeed, since I seriously need to stop switching distributions every few months. I need to find one which satisfies me entirely and convinces me to stay for good.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em style="font-weight:bold;">The one which will rule them all</em><em><strong>, and in the darkness bind them</strong></em>...*</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">For about one week or a little bit more, I have been thinking about distro-hopping again. I have enjoyed myself on Gentoo, I really have. I discovered <strong>USE FLAGS</strong>, <strong>C FLAGS</strong>, <strong>masked packages</strong>, an almost <strong>flawless</strong> <strong>documentation</strong>, compiling every program from source, <strong>overlays</strong> (which are the equivalent of the <strong>Arch AUR</strong>, if you are not familiar with them), and countless other features which are specific to Gentoo.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">However, I am already aware that it is not the distribution I will stay in. I feel like the new possibilities I obtained with Gentoo, such as USE Flags, are more like a waste of my time than anything else. I do not feel more efficient than before, on Arch Linux. I am happy to have switched away from systemd, however. Not because I did not enjoy it (I actually really like systemd for its simplicity) but because systemd does too much. I want an init system that only is an init system, not also a boot loader and whatnot.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>What am I looking for exactly?</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>Dear Santa, for Christmas, I would like a new distro</em></strong>:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true,"backgroundColor":"light-gray","textColor":"black"} --></p>
+<ol class="has-black-color has-light-gray-background-color has-text-color has-background">
+<li><strong>Without systemd</strong>. That is the first thing. I want an init system which does one thing, and does it well, like openrc, for instance.</li>
+<li>I want <strong>binary packages</strong>. Downloading from source is not my cup of tea.</li>
+<li>I need a fast package manager which <strong>supports a large array of programs</strong>.</li>
+<li>Said package manager should support <strong>steam</strong>.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Since I have been looking at other distributions, let me show you my findings and describe the options I have.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><strong>First of all, I could stay on Gentoo.</strong> At least for a while more. This time, I intend to thoroughly test my next distribution in a Virtual Machine before installing it on physical hardware. Gentoo is even more stable than Arch, since it is not a rolling release distribution. I update my system much less often, which means the likelihood of breaking something is… almost inexistant. On Arch, it would be the reverse. You want to update at least once a week or every two weeks or you may break something whilst upgrading.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><strong>I could also go back to Arch Linux</strong>, but I would feel like making a step back. I love Arch Linux, so much that I have it in a Virtual Machine just to play around with it from time to time. Nonetheless, Arch is still running systemd and comes with some kernel modules out of the box which I do not want. I could of course customize my own kernel, but I currently have no time to waste with such operations. I would much rather do more conventional system-management.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>SlackWare, Crux &amp; Void Linux: Crux Is Out</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">As for my other choices, I have selected <strong>4</strong> distributions : <strong><em>Crux</em></strong>, <strong><em>SlackWare</em></strong>,<strong><em> Void Linux </em></strong>and <strong><em>Artix</em></strong>. As I am writing this, I must admit that I have already opted Crux out. I just finished my research on it and am not satisfied with several things regarding its philosophy.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><strong>With Crux, I would need to install everything from source again</strong> but with much more difficulty than on Gentoo. Everything I am not a fan on Gentoo I would find back on Crux, and even more: that is compile time, and too much DIY. Far too much DIY. Because, even though there is a ports system on CRUX, a lot of packages have to be compiled with only the equivalent of a <strong>PKGBUILD</strong>. I consider this would not only be a waste of my time but also <strong>a lack of security</strong>. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>Package managers are there for a reason, are they not?</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">So, if CRUX is out, we still have to choose between SlackWare, Void Linux and Artix. I quite like the idea of installing SlackWare to be honest. It is one of the oldest distributions out there and that seriously appeals to the minimalist side of me. I would not install something that is not a parent distribution, since I don't much see the point in them except for adding more freedom and simplicity to our GNU/Linux eco-system. For me, they're there, and that's cool, but I'd never run them on physical hardware.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>By the way, UNIX &amp; LFS</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">By the way, before comparing Void Linux &amp; Slackware, I would like to digress a little and tell you that I have been considering an entirely different operating-system for my main machine: BSD. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Yes, I have been thinking about switching to Unix due to a change in the Linux kernel which I did not like. However, at least for the moment, I find this idea rather extreme and unnecessary. As long as <strong>I can customize the kernel as I like</strong>, I should not have to switch away from Linux, I suppose. Plus, many programs I like would not be supported on BSD. There would be too much to learn and I do not have this sort of time to dedicate to it. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">For now I better keep my BSD enthusiasm in a virtual machine, that is my conclusion. This is the same one I have drawn for LFS (<em><strong>L</strong>inux <strong>F</strong>rom <strong>S</strong>cratch</em>). Unfortunately, it is too time consuming and since it would not be functional out of the box, I can only work on it in a Virtual Machine until it is fully ready to be deployed on physical hardware.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Void Linux VS Slackware VS Artix</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Let us compare Void, SlackWare and Artix Linux.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><span style="text-decoration:underline;">Both distributions have several key characteristics in common:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true,"backgroundColor":"light-gray"} --></p>
+<ol class="has-light-gray-background-color has-background">
+<li>They are both independent and built from scratch. They aren't forks of other distributions like EndeavourOS or Manjaro would be to Arch Linux or Ubuntu to Debian.</li>
+<li>I would not have to compile all programs from source.</li>
+<li>They do not run systemd.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Void Linux</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><span style="text-decoration:underline;">First of all, I must say that Void is very attractive for several reasons:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true,"backgroundColor":"light-gray"} --></p>
+<ol class="has-light-gray-background-color has-background">
+<li>Its philosophy: It aims at being fast and secure. For instance, it chooses LibreSSL over OpenSSL. This should remind you of a BSD system such as OpenBSD.</li>
+<li>It has a clear documentation.</li>
+<li>It is rolling-release and bleeding-edge.</li>
+<li>It doesn't use systemd, but runit, which focuses on doing one thing and doing it well.</li>
+<li>Its package manager, XBPS, is mainly developed in C. Even the name of the<br />distribution should remind you of C since it comes from the literal 'void'.</li>
+<li>It is lightweight and minimal.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><span style="text-decoration:underline;">It also has one major CON however:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"backgroundColor":"light-gray"} --></p>
+<ul class="has-light-gray-background-color has-background">
+<li>It is not very popular. This means that it's harder to count on an active community for a fix.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>SlackWare</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><span style="text-decoration:underline;">Now, let us have a closer look at SlackWare:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true,"backgroundColor":"light-gray"} --></p>
+<ol class="has-light-gray-background-color has-background">
+<li>Its philosophy: Slackware aims at providing the most 'Unix-like' distribution on the market. They focus on simplicity and stability.</li>
+<li>It is available in both 32-bit and 64-bit versions. It's currently based on the Linux kernel 4.4, which means I would not have to comply with the latest changes of the Linux kernel.</li>
+<li>It is well documented, is easy to install, and manage with its menu-driven package-management system.</li>
+<li>It is the oldest-living distribution besides Debian. It was first release in July 1993.</li>
+<li>It uses SysVinit instead of Systemd.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><span style="text-decoration:underline;">It does have its CONS however:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true,"backgroundColor":"light-gray"} --></p>
+<ol class="has-light-gray-background-color has-background">
+<li>Slow release cycle (<em>slow</em> being a euphemism in this case)</li>
+<li>Dependency issues: since it is not updated very often, it is to be expected that there would be more dependency issues than on other distributions.</li>
+<li>Its ISO is huge: <strong><em>2.6GB</em></strong> just to download it.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Artix</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Yes, I also decided to look into Artix Linux. Some of you may believe that I would be betraying <strong>my ideology of only installing parent distributions</strong>. I would have to disagree however. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>Artix is basically Arch Linux, only without systemd.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Not only the install is 95% percent the same as the Arch install but <strong>it is even possible to migrate to Artix from an already-installed Arch distro</strong>. If that does not make my point, I do not know what will!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><span style="text-decoration:underline;">What about it, then:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true,"backgroundColor":"light-gray"} --></p>
+<ol class="has-light-gray-background-color has-background">
+<li>It is a modern Arch-based Distribution. This means the installation process is roughly the same as Arch.</li>
+<li>It has a great documentation and community. Another advantage of Arch-based distributions is that all their issues can be related. If you do not find enough information in the wiki of Artix, you can still look in the wiki of Manjaro or Arch.</li>
+<li>It is a<strong> rolling-release</strong>.</li>
+<li>It uses the pacman package manager. Moreover, the AUR is available with yay.</li>
+<li>It does not use systemd.</li>
+<li>Its <a href="https://artixlinux.org/faq.php" target="_blank" rel="noreferrer noopener">FAQ page </a>is funny.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><span style="text-decoration:underline;">Its main CON:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"backgroundColor":"light-gray"} --></p>
+<ul class="has-light-gray-background-color has-background">
+<li>It is an Arch-based distribution and not Vanilla Arch.</li>
+<li>All packages from the <strong>AUR</strong> or <strong>Pacman</strong> may not work since Arch Linux heavily relies on systemd and Artix has chosen to run different init systems like <strong>openrc</strong>, <strong>s6</strong>, or <strong>runit</strong>.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Conclusion</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">It is extremely hard to decide on which GNU/Linux distribution I am going to settle down in. They all have their pros and cons...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">In the end, I am pretty certain that what I am looking for is a slightly different version of Arch Linux. <strong>Artix with openrc</strong> sounds like what I want but I cannot be sure yet. I could also do <strong>Linux From Scratch</strong> but it would take much more time. <strong>The only distribution I could stay on forever would certainly be one of my making</strong>, but at the moment I will  be content with a functional one. I will keep my LFS enthusiasm well-contained within <strong>VirtualBox</strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">As a conclusion, I should thoroughly test all these distributions before making up my mind for good. I believe that Artix is what I am looking for but, being uncertain, I should test for myself.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>Take care,</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>Phil.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"align":"center","id":833,"sizeSlug":"large","linkDestination":"none"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="{{ site.baseurl }}/assets/2020/12/copyright.png?w=80" alt="" class="wp-image-833" /></figure>
+</div>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>* Thank you J.R.R. Tolkien for this wise words.</p>
+<p><!-- /wp:paragraph --></p>

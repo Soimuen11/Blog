@@ -1,0 +1,174 @@
+---
+layout: post
+title: Should You Run Arch-Based Distributions Or Vanilla Arch
+date: 2020-10-05 08:34:38.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- English
+- Tech
+tags:
+- arch
+- arch-based distributions
+- freedom
+- gnu/linux
+- learning journey
+meta:
+  timeline_notification: '1601886882'
+  _publicize_job_id: '49577268884'
+  _thumbnail_id: '2723'
+  _last_editor_used_jetpack: block-editor
+author:
+  login: soimuen
+  email: madlibrarian@yahoo.com
+  display_name: Phil Wayne
+  first_name: Philippe
+  last_name: Wayne
+permalink: "/2020/10/05/should-you-run-arch-based-distributions-or-vanilla-arch/"
+---
+<p><!-- wp:paragraph {"align":"center","fontSize":"medium"} --></p>
+<p class="has-text-align-center has-medium-font-size"><strong><em>My Dearest Mad-Readers,</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I cannot help but sighing when I think of GNU/Linux distributions. It is such a weary topic and... Well, only if you make it so, actually. <strong>There is not much of a point criticizing GNU/Linux distributions</strong>, especially when you believe <strong>they all roughly are the same</strong>. Indeed, all of us are running Linux, in the end... There is a point in discussing the <strong>very</strong> <strong>existence</strong> <strong>of distributions</strong>, however. This is why I have been thinking for so long about the differences between a <strong>parent distribution</strong> such as Vanilla Arch, and other <strong>Arch-based</strong> ones.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>What Is A Distribution</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>I do not wish to dive deep into details about what a distribution is in this blog post, but I would still like to clarify some things. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><span style="text-decoration:underline;">Several elements characterize a Linux distribution :</span></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>A set values and principles</li>
+<li>A package manager</li>
+<li>A wiki</li>
+<li>A default appearance (its default settings)</li>
+<li>A community</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Distribution comes from the verb "distribute" : make available, share, on a small or large scale. This means that anyone with some fundamental skills could distribute Linux, essentially. Let us take the example of Ubuntu : It aims at being easy and usable straight out of the box. It provides a working environment for everyone, no matter whether you are a beginner or someone more advanced. It does it at the cost of freedom, but it still does it <em>rather</em> well. It has a package manager : apt-get. It has a wiki and a forum for its community to interact and ask questions when they have issues. It also has a default appearance, which many distributions do not have (like Arch or Gentoo), since it ships with <em>Gnome Shell</em> by default. If you take Linux Mint, it also has what I would call a default appearance, since you can download three different ISOs with three different desktop environments.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>What All Distributions Have In Common</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">GNU/Linux distributions are all extremely similar, at least for two reasons : <strong>GNU</strong> and <strong>Linux</strong>. Yes, they all are <strong>the same operating system</strong> and all run <strong>the same kernel</strong>. Which means they also all (or most of them) have the same <strong>system architecture</strong>, with /etc, /bin, /usr, /home, to list but a few... All <strong>programs</strong>, whatever the installation method (from source or a package manager) are the same too. There is choice aplenty, this is true, but most of us still use the same programs. This is the configuration of these programs which differ, if you take the example of window managers and desktop environments. Even the installation process is the same. I expect most of my readers will not know what it is like, since it is automated with a <strong><em>GUI</em></strong> on the most highly ranked distributions on <em><strong><a href="http://distrowatch.com">distrowatch.com</a></strong></em>. Yet, it still is : </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><strong>Getting the ISO</strong>
+<ol>
+<li>You acquire the ISO &amp;/or verify the signature</li>
+<li>You make the installation medium</li>
+<li>You boot into the live environment</li>
+</ol>
+</li>
+<li><strong>Within the live environment</strong>
+<ol>
+<li>You pick a keyboard setup (like US-UTF8) &amp; verify the boot mode (BIOS or EFI)</li>
+<li>You connect to the internet &amp; set the system clock</li>
+<li>You partition the disk (with whichever partition scheme you prefer, but that <em>generally</em> is done for you)</li>
+<li>You format the partitions (mkfs.ext4 for instance, or mkswap)</li>
+<li>You mount the file system</li>
+</ol>
+</li>
+<li><strong>Installation &amp; configuration of the system</strong>
+<ul>
+<li>I will not develop this part, since it varies depending on whether you do it manually or automatically. You will not have to chroot into your new environment for instance, or configure fstab, if it is done for you. </li>
+</ul>
+</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>All distributions do not have a package manager, but the most renowned all do. Arch-based ones have <strong><em>pacman</em></strong>, Debian-based ones have <em><strong>apt-get</strong>,</em> Red-Hat has <em><strong>yum</strong></em>... Do you not see now how <strong>we all are in the same team</strong> ?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>A World full of Linux Distributions</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">The one thing I am the most fond as a Linux user is <em><strong>freedom</strong>.</em> Freedom is not just a word to me. It means so much more... It bends all limits and empowers people. This is one reason why I am so happy there are myriads of distributions of Linux in the world. They all reflect someone's state of mind in their learning journey. They should all be, I believe, welcomed as blessings. Each one of them gives you the freedom to choose something else, something that you can identify with more than what you previously had.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Some of you may believe it contradicts what I previously stated, but despite my love for sub-distributions, I would not run one as my daily driver. When I have a good tool such as Vanilla Arch, Gentoo, Debian... I'd rather use this one tool well, rather than re-invent the wheel entirely. I am grateful these distributions are there for people who need them more (beginners, for instance), but as a free-minded individual, I am already most happy with Vanilla Arch, which allows me to do all I can possibly want to do. Although Gentoo calls me a bit more loudly every day... Ahem...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><span style="text-decoration:underline;">Here are some Arch-based distributions I would seriously recommend (from recommendation and personal experience) :</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li> Manjaro</li>
+<li> Arco Linux</li>
+<li> Parabola</li>
+<li>Endeavor os</li>
+<li>Artix</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I also believe <strong>Linux Mint</strong> is the path to take for all beginners or people who want to <strong>run away from potential headaches</strong>. I would endorse it more than Ubuntu, because <strong>it gives you more freedom</strong>. The fact that there is such a myriad of distributions is extremely helpful for neophytes. Even I had the chance to start with Linux Mint and then Manjaro instead of going straight to arch.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I wish all these so-called Archers calmed down with the hate on Reddit and helped others like they were helped, instead of digging their graves. To me, these people do not represent what the open-source community stands for. As Linux users, we wish to be free, and especially free to run whichever program might tickle our fancy.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>For Your Culture</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Here is a list of the <strong><em>7 parent distributions</em></strong> (or so I enjoy calling them), although it is a little different than what it was at the very beginning of Linux :</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Arch (based off Crux)</li>
+<li>Debian</li>
+<li>Gentoo</li>
+<li>Ubuntu (based off Debian)</li>
+<li>Slackware</li>
+<li>Sorcerer (Now : Source Mage)</li>
+<li>Redhat (What you know as Fedora or CentOS today)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I'd like to add <strong>LFS</strong> to that list. If you are curious and want to make your own Linux distribution one day, you should check this out : <em><strong>Linux From Scratch</strong></em>. They have an amazing book, which you can get as a PDF and read at your own pace. Stay away if you are not ready to build your own kernel, however...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">As for Ubuntu, it is an exception to the rule. It has become a parent distribution but it was not there at the very beginning. Well, many distributions have changed since the very beginning : <strong>Crux</strong> has become <strong>Arch</strong>, <strong>Sorcerer</strong> has become <strong>Source Mage</strong> (there is another <em>fork</em> of it, actually, called <strong>Lunar Linux</strong>).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>My Journey With Linux Continues...</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">You do not know this, but I studied html 5, CSS 3 and JavaScript (ECMAScript 6 mostly). My very first programming language was python, but I did not explore it in the same depths as JavaScript. Today, I wish to learn C, in depths. I want to keep learning more and more about how computers work, and how I can make efficient programs to better my experience and that of others. Recently, I switched from <strong>Qtile &amp; Termite</strong> to <strong>Dwm + St </strong>because I want to use programs that are written in C. They are much more efficient than Python and, since I am learning C, it sounds like a reasonable choice to modify my environment for it to reflect my current state of mind. Qtile was written in Python. Same for ranger. I uninstalled both and switched to the <strong>vifm</strong> file manager. Not that I often use a file manager anyway...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">When I have more time to dedicate to all this, I am seriously considering switching to Gentoo. I believe it will be the last big switch I make in my Linux journey, but I am not yet entirely sure. LFS calls me too... Dwm &amp; St satisfy me a lot, so I do not believe I will switch window manager any time soon. I kept Qtile for several months, but I was aware it was probably only temporary. Dwm &amp; st sound more like an investment I can identify with.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>A Short Announcement</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">My partnership with Amazon has lasted long, but I decided to put an end to it. It is not me. So say goodbye to Amazon affiliate links! I am not here to sell you something. I am here to <strong>interact with you</strong> and <strong>give you value</strong>. And<strong> have fun!</strong> </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Signing Off</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">If you wish to support me, you know I have a Patreon ? And a YouTube channel (which I haven't updated in a month) ? And a goodreads account ? Yes, you know all that, there is no point in repeating it over and over, right ? Feel free to stay for some more articles. I won't add a link but do read some more and you like my work (I'd be flattered).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>Take good care of yourselves guys,</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Phil.</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"align":"center","id":270,"sizeSlug":"large","className":"is-style-default"} --></p>
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-large"><img src="{{ site.baseurl }}/assets/2020/10/copyright.png?w=80" alt="" class="wp-image-270" /></figure>
+</div>
+<p><!-- /wp:image --></p>

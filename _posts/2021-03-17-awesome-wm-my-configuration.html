@@ -1,0 +1,214 @@
+---
+layout: post
+title: 'Awesome WM: My Configuration'
+date: 2021-03-17 01:30:00.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- English
+- Tech
+tags:
+- awesomeWM
+- bloat
+- C
+- configuration
+- gnu/linux
+- lua
+- ricing
+- window manager
+meta:
+  timeline_notification: '1615944612'
+  _publicize_job_id: '56028808783'
+  _last_editor_used_jetpack: block-editor
+  _thumbnail_id: '4615'
+author:
+  login: soimuen
+  email: madlibrarian@yahoo.com
+  display_name: Phil Wayne
+  first_name: Philippe
+  last_name: Wayne
+permalink: "/2021/03/17/awesome-wm-my-configuration/"
+excerpt: As I told you in one of my recent videos, my war against bloat is over. This
+  does not mean I intend to start using KDE Plasma again, since it would not match
+  my workflow, or that will endorse web bloat, since it is a real problem that I tend
+  to see as different from the one I am describing now. However I do intend to be
+  more realistic with the programs I use. Let me give you a concrete example which
+  I have already cited in previous videos.
+---
+<p><!-- wp:heading {"textAlign":"center"} --></p>
+<h2 class="has-text-align-center"><em>My Dearest Mad-Readers,</em></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">As I told you in one of my recent videos, my <strong>war against bloat </strong>is over. This does not mean I intend to start using <strong>KDE Plasma</strong> again, since it would not match my <strong>workflow, </strong>or that will endorse <strong>web bloat</strong>, since it is a real problem that I tend to see as different from the one I am describing now. However I do intend to be more realistic with the <strong>programs</strong> I use. Let me give you a concrete example which I have already cited in previous videos.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>​Another Attempt At Defining « Bloat »</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">First, I would like to attempt at defining the concept of <strong>bloat</strong>. Nowadays, we all use it too freely, when in reality it only means one simple thing: the program you have in your hand is too powerful, it has the potential to do more than is actually necessary. It does not mean that such a program is bad, just that they might need to be lighter. Thunderbird is an excellent example. An email client does not need to be a calendar or an RSS feed reader. There are other more-efficient programs to do those jobs, such as calcurse or newsboat, although they are terminal-based.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2409,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2021/03/2020-09-13-171430_1366x768_scrot.png?w=1024" alt="phil-waynes-qtile-configuration" class="wp-image-2409" /><br />
+<figcaption>My <strong>qtile</strong> configuration</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">To some of you, and even to me at a certain point of my learning curve, Qtile probably is bloat. This mostly is because it is written in Python, a programming language which is considered rather slow by more than one professional in the business. It might be an interesting argument. When you compare performance however, <strong>Qtile is not much bloater than a </strong><em><strong>fully-configured</strong></em> – or fully-patched, if you prefer – <strong>dwm</strong>. Indeed, most people who install dwm will configure it to have a lot of bloated options which will unnecessarily consume their RAM, since they will not even use them most of the time. Plus, most of us will not even see a difference if a program takes one more millisecond to load or if it burns a few more megabytes of RAM.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":4641,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2021/03/2021-03-11-155343_1366x768_scrot.png?w=1024" alt="" class="wp-image-4641" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">In fact, most people who rice their desktop environments or window managers especially do it for the satisfaction of doing it. Of course, it can also be useful but it would not be my first reaction to associate the term ricing with usefulness. You can be more than efficient enough without a fully riced window manager. Take the default configuration of i3 and it will do the job if you are looking to be more efficient.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Satisfaction is one reason why I have chosen to try out <strong>Awesome Window Manager</strong>: A program which I have long considered too bloat. As we go on, you will see that it is an extremely powerful window manager. Certainly much more powerful out of the box than most window managers out there. It also is rather easy to configure it. I say « rather easy » because it still is more oriented toward power-users.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":4632,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2021/03/2021-03-11-153709_1366x768_scrot.png?w=1024" alt="phil-waynes-awesome-configuration" class="wp-image-4632" /><br />
+<figcaption>My awesome configuration: moc, vifm, htop, st (<strong>fair</strong> layout)</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:heading --></p>
+<h2>The Default Configuration &amp; Themes</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">If this <em>awesome</em> fork of dwm is written in <strong>C</strong>, its configuration file is in Lua. It makes <strong>Awesome</strong> fully scriptable. I have not had the opportunity to explore this feature yet, since I only tested awesome for about 2 weeks and I am also still going back and forth between awesome and dwm. I tend to live a few days in one and then go back to the other.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">There are too many themes to discuss them all in one video. However, I would like to point out to all of you that, contrary to other window managers, you can simply pick a theme on GitHub among the many that are offered and be content with your configuration. The default key bindings are more than decent. They would not necessarily be the ones I would set up for myself (since I removed most of them already) but they are not bad at all. In fact, you might be perfectly happy with them if this is your first time using a window manager.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Regarding the theme I have chosen, it is called <strong>gtk</strong>. It is a <strong>light theme</strong>, which is pretty strange since I have a history with <strong>dark </strong>ones. I did not like the default configuration however and I found the <strong>gtk </strong>theme really well-designed. You will have to be content with that, because there is nothing rational behind this choice.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":4633,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2021/03/2021-03-11-153901_1366x768_scrot.png?w=1024" alt="phil-waynes-awesome-config2" class="wp-image-4633" /><br />
+<figcaption>My awesome configuration: the brave browser &amp; tabs in the bar (<strong>max</strong> layout)</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:heading --></p>
+<h2>Keybindings</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">The mod key already is “super”, which matches my personal preference, so I have already been bought out… As for my custom keybindings, they are pretty much the same as for Dwm and Qtile. The bindings which change a bit are the ones regarding the layouts.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Custom bindings:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Super + v: Vifm</li>
+<li>Super + p: Alacritty -e mocp -T /usr/share/moc/themes/yellow_red_theme</li>
+<li>Super + t: Thunderbird-bin</li>
+<li>Super + b: Brave-bin</li>
+<li>Super + d: Dmenu</li>
+<li>Super + r: Awesome default prompt</li>
+<li>Super + a: Anki</li>
+<li>Super + n: St -e newsboat -r</li>
+<li>Super + s: Pavucontrol</li>
+<li>Super + o: Libreoffice</li>
+<li>Super + c: Calcurse</li>
+<li>Super + g: Game launcher script</li>
+<li>Super + u: Usb mounter script</li>
+<li>Super + z: Zeal</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Brand new bindings:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Super + shift + d: Show keybindings</li>
+<li>Super + shift + p: Show menu bar</li>
+<li>Super + left/right arrow key: Switch workspace</li>
+<li>Super + m: Maximize or unmaximize a window</li>
+<li>Super + f: Toggle full screen</li>
+<li>Super + tab: Go back</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I also have a lot of <strong>tmux</strong> and screen bindings but I currently have no use of them. Am I wrong? Should I use tmux more? Tell me in the comments below!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>System bindings:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Super + w: Close a window</li>
+<li>Super + Enter: Open a window</li>
+<li>Super + Control + q: Quit Awesome</li>
+<li>Super + Control + r: Restart Awesome</li>
+<li>Super + [number]: Switch workspace</li>
+<li>Super + shift + [number]: Move a window to another workspace</li>
+<li>Super h/j/k/l: Move from one window to another</li>
+<li>Super + shift + h/j/k/l: Switch focus to another window</li>
+<li>Super + space: Switch layout</li>
+<li>Super + shift + space: Switch layout (backward)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Function Keys</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">The function keys work exactly like on dwm, qtile or any Windows system. I set them up to mute, decrease and increase the sound volume but also to decrease and increase my screen brightness.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>The bar</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">The bar depends on your theme and personal configuration. It is important to specify that it relies first and foremost on your theme, because I expect that most of you will not rice Awesome WM and be content with the various default configurations which a man may enjoy. Even I have kept something rather default-looking, since I merely picked the <strong>gtk theme</strong>, changed some system bindings, added my custom ones, added a bunch of icons and… Voilà! That is pretty much it. The rest I had already configured when setting up <strong>dwm</strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">By the way, have you noticed that, unlike my qtile and dwm configurations, I have kept the bar at the top? This is another irrational decision of mine. I really like it there and cannot imagine what it would feel like if I moved it to the bottom of the screen... What about you? Do you keep the bar at the top or the bottom?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Questions To You</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">One task I do not expect my window manager to take care of is the setting of my wallpaper. I would rather leave this job to my <strong>.xprofile </strong>and a program called <strong>feh</strong>. So I removed the code which does it in my <strong>rc.lua</strong> configuration file. What do you believe? Does this feature make Awesome WM better than other window managers or is it useless?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><strong><span style="text-decoration:underline;">It is your turn now. Tell me:</span></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>How do you like tabs in the bar?</li>
+<li>What do you think about the menu bar?</li>
+<li>Is it helpful to have a keybinding to print a reminder of your keybindings or is it just another piece of bloat to show off?</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Regarding the layouts, I have only kept 3: <strong>fair</strong>, <strong>magnifier</strong> and <strong>max</strong>. They are the only ones worth using in my opinion. The others might be beautiful but neither do they match my workflow nor do I believe that you can be efficient with them. What about you? How many layouts do you use?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I removed several system bindings (regarding the layout) which I had no use of: super+n or super +t (to minimize a client or move to a screen). They were only annoying since they were also conflicting with my custom bindings. Would you have kept them?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Conclusion &amp; Sign-Off</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">In case you did not know, I am a HUGE fan of How I Met Your Mother. Whether I feel down or happy, I always find comfort watching Ted, Barney, Marshall, Lily and Robin (and the mother). This is one of the reasons why this legendary window manager has not only technically conquered me… its <em>awesomeness</em> has taken my heart and soul.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong>You know what?!</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><em><strong>Whenever I’m sick, I just stop being sick and </strong></em><strong>[<em>start</em> </strong><em><strong>using</strong></em><strong>]</strong><em><strong> Awesome instead!</strong></em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong>Take care,</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p class="has-text-align-center"><strong><em>Phil.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify"><strong><em>P.S:</em></strong> Originally, I only installed Awesome as a back-up. I wanted to have an extra <strong>window</strong> <strong>manager</strong> in case my main one failed me. It seems like my plan B has become my plan A, however, and vice versa...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"align":"center","id":833,"sizeSlug":"large","linkDestination":"none"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="{{ site.baseurl }}/assets/2021/03/copyright.png?w=80" alt="" class="wp-image-833" /></figure>
+</div>
+<p><!-- /wp:image --></p>
