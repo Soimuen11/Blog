@@ -1,0 +1,185 @@
+---
+layout: post
+title: A Phil Wayne's Rice of Dwm
+date: 2021-03-03 03:30:00.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- English
+- Tech
+tags:
+- configuration
+- dwm
+- font-awesome
+- patches
+- ricing
+- slstatus
+- st
+- suckless software
+- window manager
+meta:
+  _last_editor_used_jetpack: block-editor
+  _thumbnail_id: '4596'
+  _publicize_job_id: '55478035995'
+  timeline_notification: '1614744023'
+author:
+  login: soimuen
+  email: madlibrarian@yahoo.com
+  display_name: Phil Wayne
+  first_name: Philippe
+  last_name: Wayne
+permalink: "/2021/03/03/a-phil-waynes-rice-of-dwm/"
+excerpt: Before I begin, I would like to thank all my YouTube subscribers. We recently
+  hit 100 and I feel flattered to already have so many people listening to my rambling.
+  I would also like to thank every one of you reading this blog, since we are about
+  to hit 200. None of this would be possible without you, so THANK YOU! After several
+  months of living in this window manager, I finally feel ready to present my dwm’s
+  final configuration. If you are looking for something rather minimalist, with only
+  a few applied patches, but yet that still has a pretty thrilling design, you should
+  not be disappointed.
+---
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Before I begin, I would like to <strong>thank all my YouTube subscribers</strong>. We recently hit <strong>100</strong> and I feel flattered to already have so many people listening to my rambling. I would also like to <strong>thank every one of you reading this blog</strong>, since we are about to hit <strong>200</strong>. None of this would be possible without you, so <strong>THANK YOU!</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">After several months of living in this <strong>window manager</strong>, I finally feel ready to present my <strong>dwm</strong>’s <strong>final configuration</strong>. If you are looking for something rather <strong>minimalist</strong>, with only a few applied <strong>patches</strong>, but yet that still has a pretty thrilling design, you should not be disappointed.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>My Latest YouTube Video</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In case you preferred this format, I also added the video to this post:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:embed {"url":"https:\/\/youtu.be\/ZX61Qj8UjQQ","type":"rich","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
+<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+https://youtu.be/ZX61Qj8UjQQ
+</div>
+</figure>
+<p><!-- /wp:embed --></p>
+<p><!-- wp:paragraph --></p>
+<p><span style="text-decoration:underline;">My Dwm configuration can be broken down into <strong>3 main key components</strong>:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><strong>Dwm:</strong> Dynamic Window Manager</li>
+<li><strong>St:</strong> The Simple Terminal</li>
+<li><strong>Slstatus:</strong> Suckless Status</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><span style="text-decoration:underline;">Here is a list of the patches which I applied for Dwm:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Dwm-alpha</li>
+<li>Centered-window-name</li>
+<li>Color-bar</li>
+<li>Iscentered</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I used to have a lot more, which you could notice if you had the curiosity to look into my patches/ directory. It is full of unapplied patches, essentially. Patches which I applied and then removed because I was not happy with the result.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><span style="text-decoration:underline;">As for my St config, only has<strong> 2 patches</strong>:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Transparency</li>
+<li>Scrolling: Press [Shift + PgUp] or [Shift + PgDown]</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">I am currently not using St. I recently installed Alacritty to test it out, along with another window manager which I will reveal at the end of this article.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><span style="text-decoration:underline;">Finally, here is how I configured Slstatus:</span></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>I installed <strong>font-awesome</strong> for all icons to display as expected.</li>
+<li>I got an item to look over my first battery (bat0) and my second battery (bat1). In case I would not be paying attention to the power level displayed in the bar, I also set up a <strong>cron job </strong>which checks for me every 1 minute whether my battery level is higher than 15%. If not, it warns me that I should plug my computer to a power source. Needless to say, I won’t get any alert if my bash script running in the background notices that my computer already is plugged in. Do feel free to check out this script, by the way. You can find it in Dotfiles/.local/scripts/batteryinfo.</li>
+<li>I have 4 more items: one which checks the sound level; one for CPU usage; one for RAM usage; and finally one which gives me the current time and date. It is all rather convienent but it remains the bare minimum one could ask, I would say.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>Keybindings [mod = super key]:</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">Most of my keybindings will remind you of my <a href="https://madlibrarian.xyz/2020/08/22/presentation-of-my-dotfiles/" target="_blank" rel="noreferrer noopener"><strong>Qtile</strong> <strong>config</strong></a>, for those of you who remember that video. Click on <a href="https://www.youtube.com/watch?v=8TBL1EXT5Cs" target="_blank" rel="noreferrer noopener">this link</a>, if you have not seen it.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>​Custom bindings:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Super + v: vifm</li>
+<li>Super + p: alacritty mocp -T /usr/share/moc/themes/yellow_red_theme</li>
+<li>Super + t: thunderbird-bin</li>
+<li>Super + b: brave-bin</li>
+<li>Super + d: dmenu</li>
+<li>Super + a: anki</li>
+<li>Super + n: st -e newsboat -r</li>
+<li>Super + s: pavucontrol</li>
+<li>Super + o: libreoffice</li>
+<li>Super + c: calcurse</li>
+<li>Super + g: game launcher script</li>
+<li>Super + u: usb mounter script</li>
+<li>Super + z: zeal</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>​System bindings:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Super + w: close a window</li>
+<li>Super + Enter: open a window</li>
+<li>Super + Control + Q: Quit dwm</li>
+<li>Super + [number]: Switch workspace</li>
+<li>Super + shift + [number]: move a window to another workspace</li>
+<li>Super h/j/k/l: move from one window to another</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>​Mode bindings:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Super + shift + o: floating center mode</li>
+<li>Super + shift + u: awesome mode</li>
+<li>Super + shift + t: tile mode</li>
+<li>Super + shift + m: monocle mode</li>
+<li>Super + shift + f: floating mode</li>
+<li>Super + shift + b: the bar disappears</li>
+<li>Super + shift + space: locks screen</li>
+<li>Super + shift + s: scrot (take a screenshot)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Function keys:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">As any <strong>Windows</strong> system, I set up my dwm to respond to function keys. This way, I can manage the sound level and the brightness of my screen with the <strong>function key</strong> and then <strong>F1</strong> (mute), <strong>F2</strong> (lower volume), <strong>F3</strong> (increase volume) and finally <strong>F5</strong> and <strong>F6</strong> to respectively decrease and increase the brightness of my screen.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>A Refreshing Sign-Off?</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph {"align":"justify"} --></p>
+<p class="has-text-align-justify">As promised, let me tell you which <strong>window manager</strong> I have recently been exploring: <strong>Awesome WM</strong>! Something much <strong>bloater</strong> than what I usually deal with, right?! Anyway, if you wish to have a look at my <strong>dwm configuration</strong>, you may find a link to my <strong><a rel="noreferrer noopener" href="https://github.com/Soimuen11/PhilWayne-Dwm" target="_blank">GitHub</a></strong> on my <a rel="noreferrer noopener" href="https://madlibrarian.xyz/about/" target="_blank">about page</a>. Since you have been patient to read until the end, I will also reveal something to you: I rarely use <strong>St</strong> anymore. The <strong>terminal emulator</strong> I have replaced it with is <strong>Alacritty</strong>. Not because it is written in <strong>Rust</strong>, calm your enthusiasm!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center","fontSize":"medium"} --></p>
+<p class="has-text-align-center has-medium-font-size"><strong><em>Cheers,</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"center","fontSize":"medium"} --></p>
+<p class="has-text-align-center has-medium-font-size"><strong><em>Phil.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"align":"center","id":833,"sizeSlug":"large","linkDestination":"none"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img src="{{ site.baseurl }}/assets/2021/03/copyright.png?w=80" alt="" class="wp-image-833" /></figure>
+</div>
+<p><!-- /wp:image --></p>
