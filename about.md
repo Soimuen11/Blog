@@ -17,3 +17,4 @@ also have a degree in Software Development and a Cambridge CELTA.
 + [Odyssee](https://odysee.com/@PhilWayne:c)
 + [Portfolio](https://soimuen11.github.io/Portfolio/)
 + [Dotfiles](https://github.com/Soimuen11/Dotfiles)
++ [The Free Wiki](https://soimuen11.github.io/FreeWiki)
