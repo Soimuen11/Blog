@@ -1,3 +1,1 @@
-# The Movie-Addicted Librarian
-
-This is Phil Wayne's blog.
+This is my blog.
