@@ -3,7 +3,7 @@ title:               The Movie-Addicted Librarian
 tagline:             "A Phil Wayne's Blog"
 description:         "Welcome to Phil Wayne's blog! A place to discuss technology, linguistics, cinema, literature, and so much more..."
 url:                 ''
-baseurl:             ''
+baseurl:             'Blog'
 paginate:            5
 permalink:           pretty
 
