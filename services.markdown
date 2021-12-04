@@ -3,6 +3,11 @@ layout: page
 title: Services
 ---
 
+## Contact Me
+
++ Email: m@yahoo.com
++ Replace "m" with "madlibrarian"
+
 ## Français
 
 **Cours de langue personnalisés en ligne**:
@@ -18,7 +23,17 @@ title: Services
 + Find me on **Superprof** & **Italki** too!
 
 ## Italiano
+
 **Ripetizioni private ONLINE**:
 + **Lingue disponibili**: italiano, inglese, francese.
 + Discord, Hangouts, Zoom, Skype.
 + Trovatemi anche su **Superprof** & **Italki**!
+
+## Software Development && System Administration
+
++ Linux && Windows Consulting
+
+## Translation
+
++ From French to English || From English to French
++ From Italian to French ||
