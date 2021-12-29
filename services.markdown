@@ -31,9 +31,10 @@ title: Services
 
 ## Software Development && System Administration
 
-+ Linux && Windows Consulting
++ Linux & Windows Consulting
++ I can also write the frontend of your website!
 
 ## Translation
 
-+ From French to English || From English to French
-+ From Italian to French ||
++ From French to English & vice-versa
++ From Italian to French & vice-versa
