@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Qui suis-je ?
 ---
-
-## Qui suis-je ?
 
 Hello World, Bienvenue sur mon blog !
 
