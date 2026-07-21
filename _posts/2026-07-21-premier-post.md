@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mon TOUT PREMIER post !!"
+title:  "Mon TOUT PREMIER post !! 🥳"
 ---
 
 # Hello World
@@ -9,7 +9,7 @@ Il est de coûtume d'utiliser ces deux mots pour tester le bon
 fonctionnement d'un programme que l'on commence, n'est-ce pas ?
 
 Eh bien... Je vous confirme que ce nouveau blog est enfin fonctionnel. Je suis
-vraiment super content !
+vraiment super content ! 😁
 
 J'espère que vous aimerez ce tout nouveau blog. Peut-être que vous connaissiez
 déjà mon [ancien site](https://madlibrarianwriting.poetry.blog) ? Que vous le
@@ -26,4 +26,4 @@ par-ci par-là, mais j'ai l'intention de plutôt publier des posts dans la langu
 de Molière.
 
 Voilà voilà, c'est tout pour aujourd'hui ! Merci d'avoir pris le temps de me
-lire, et à la prochaine !
+lire, et à la prochaine ! 🙂
