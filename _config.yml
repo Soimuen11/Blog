@@ -3,7 +3,7 @@ title:               Blog de Philippe Iannetta
 tagline:             "Blog de Philippe Iannetta"
 description:         "Bienvenue sur mon blog ! Un endroit pour parler sport, technologies, Linux, and more !"
 url:                 ''
-baseurl:             ''
+baseurl:             '/Blog'
 paginate:            5
 permalink:           pretty
 
