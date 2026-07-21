@@ -1,7 +1,7 @@
 # Setup
-title:               The Movie-Addicted Librarian
-tagline:             "A Phil Wayne's Blog"
-description:         "Welcome to Phil Wayne's blog! A place to discuss technology, linguistics, cinema, literature, and so much more..."
+title:               Blog de Philippe Iannetta
+tagline:             "Blog de Philippe Iannetta"
+description:         "Bienvenue sur mon blog ! Un endroit pour parler sport, technologies, Linux, and more !"
 url:                 ''
 baseurl:             ''
 paginate:            5
@@ -9,8 +9,8 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Phil Wayne
-  url:               https://github.com/Soimuen11 
+  name:              Philippe Iannetta
+  url:               https://github.com/Soimuen11
   email:             madlibrarian@yahoo.com
 
 # Gems

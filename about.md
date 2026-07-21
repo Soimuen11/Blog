@@ -3,15 +3,20 @@ layout: page
 title: About
 ---
 
-## Who Am I?
+## Qui suis-je ?
 
-Hello World, Phil Wayne here! I am so happy to have you here and flattered you
-would take the time to read my blog!
-Here you'll find articles about many things: sports, language learning, reading
-& writing, operating systems, movies & TV series, and just life.
+Hello World, Bienvenue sur mon blog !
 
-## Find Me Here Too:
+Ayant un certain nombre de passions, attendez-vous à lire des articles sur des
+sujets très divers : randonnées et voyages, Linux et l'informatique dans sa
+globalité, films et séries, critiques de livres, etc.
+
+Je vous souhaite une excellente lecture.
+
+## Si tu es curieux d'en savoir plus !
 
 + [Portfolio](https://portfolio.phiannetta.xyz)
++ [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/)
 + [Dotfiles](https://github.com/Soimuen11/Dotfiles)
 + [The Free Wiki](https://soimuen11.github.io/FreeWiki)
++ [Mon vieux blog](https://madlibrarianwriting.poetry.blog)
