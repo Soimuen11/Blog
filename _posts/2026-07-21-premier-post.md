@@ -3,7 +3,7 @@ layout: post
 title:  "Mon TOUT PREMIER post !! 🥳"
 ---
 
-# Hello World
+# Hello World !
 
 Il est de coûtume d'utiliser ces deux mots pour tester le bon
 fonctionnement d'un programme que l'on commence, n'est-ce pas ?
@@ -13,8 +13,13 @@ vraiment super content ! 😁
 
 J'espère que vous aimerez ce tout nouveau blog. Peut-être que vous connaissiez
 déjà mon [ancien site](https://madlibrarianwriting.poetry.blog) ? Que vous le
-connaissiez ou non, cela n'a pas d'importance. J'ai eu envie de recommencer à
-zéro, de faire plus simple.
+connaissiez ou non, cela n'a pas une grande importance mais si vous êtes
+curieux, ça vous donnera une idée du type de contenu auquel vous pouvez vous
+attendre.
+
+# Pourquoi ce blog ?
+
+J'ai eu envie de recommencer à zéro, de faire plus simple.
 
 Sur mon blog précédent, je me présentais sous un pseudonyme. J'ai décidé d'en
 changer, d'accepter que mon empreinte numérique est déjà suffisamment
@@ -24,6 +29,12 @@ J'écrivais aussi plutôt en anglais. Aujourd'hui, je souhaite plutôt cibler un
 lectorat en France. Il se peut que des écrits en anglais ou italien passent
 par-ci par-là, mais j'ai l'intention de plutôt publier des posts dans la langue
 de Molière.
+
+Niveau simplicité, je souhaitais quitter WordPress et tous ses inconvénients.
+Pour maintenir un blog comme le mien, où le contenu est roi et où l'on n'a
+point besoin de plugins, d'analytics, de publicité... Bref, toutes ces choses
+superflues qui ne contribuent pas toujours à rendre le world wide web meilleur.
+J'ai choisi de revenir à une solution plus légère avec Jekyll et Github Pages.
 
 Voilà voilà, c'est tout pour aujourd'hui ! Merci d'avoir pris le temps de me
 lire, et à la prochaine ! 🙂
