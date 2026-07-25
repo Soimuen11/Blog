@@ -22,4 +22,10 @@
 + Remettre mon blog Jekyll (blog.phiannetta.xyz) au goût du jour
 + Changer le favicon
 + Ajouter ce nouveau blog à mon portfolio (remplacer mon wordpress ?)
-+ Lister les commandes jekyll dont j'ai besoin au quotidien pour la gestion de mon blog (bundle add pluging ; bundle exec jekyll build ; bundle exec jekyll serve ; gem install ... ; etc...)
+
+# Lister des commandes jekyll dont j'ai besoin au quotidien pour la gestion de mon blog
+
++ bundle add plugin
++ bundle exec jekyll build
++ bundle exec jekyll serve
++ gem install ...
