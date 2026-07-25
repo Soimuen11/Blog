@@ -22,4 +22,4 @@ Je vous souhaite une excellente lecture.
 ## Si tu veux me contacter (pour émettre un avis, par exemple, ou m'apprendre un truc)...
 
 + Via [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/) en MP.
-+ Par ce bon vieux machin qui s'appelle [un mail](mailto:philippe.iannetta-contact@yahoo.fr).
++ Par ce bon vieux machin qui s'appelle [un mail](mailto:philippe.iannetta-contact@yahoo.com).
