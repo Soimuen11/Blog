@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Quel rythme de publication pour ce blog ?"
+title:  "Quel rythme de publication pour ce blog ? 📄"
 date: 2026-08-01 14:30:00
 ---
 
 Mesdames & messieurs, chers lecteurs & lectrices...
 
 Je reviens vers vous pour vous donner un peu de visibilité sur un sujet qui me
-tient à cœur : mon rythme de publication sur ce blog. 📄
+tient à cœur : mon rythme de publication sur ce blog.
 
 Je me souviens avoir eu un semblant de rythme sur WordPress, puis au fur et à
 mesure que ma motivation fluctuait, celui-ci est progressivement parti en
 fumée. Au début, je publiais plusieurs articles par semaine, puis un peu moins,
 puis de nouveau un ou deux, et enfin plus du tout. Les idées ne m'ont pourtant
-jamais manquées, je les note régulièrement dans un fichier que je maintiens
+jamais manqué, je les note régulièrement dans un fichier que je maintiens
 rigoureusement à jour. Au fil des pauses qui grossissaient toujours plus,
 cependant, j'avais moins envie de faire l'effort de raconter tout ce qu'il
 s'était passé durant les vides entre deux posts. Je pense que c'est ce qui m'a
