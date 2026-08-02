@@ -48,37 +48,42 @@ souhaite vous partager une réflexion que vous pourrez ensuite vous approprier.
 En Occident, nous nous vantons souvent d'être en république, en démocratie,
 mais aussi de disposer de ce droit inaliénable qu'est la "liberté d'expression".
 
-J'aimerais, pour commencer, revenir avec vous sur des définitions.
-Tout travail d'analyse sérieux commence des définitions, je ne vois pas comment
-il pourrait en être autrement. Je vous rassure, on ne va pas partir sur une
-thèse, antithèse et synthèse hein... Je me tape juste un kiff, c'est tout. Pis
-je suis chez moi ici, je fais ce que je veux wesh.
+Je vous le demande : À une époque aussi moderne que la nôtre, où nous nous
+enfonçons progressivement dans un système d'hypersurveillance et où le mensonge
+est la parole officielle, peut-on encore considérer notre démocratie en tant
+que telle ?
 
-    + <u>République</u> : Du latin « res » et « publica ». Littéralement, la « chose
-      publique ». Selon le dictionnaire de l'Académie (que je commence à
-      apprécier) : Organisation politique où l’exercice de la souveraineté
-      appartient à des représentants investis d’un pouvoir exécutif non
-      héréditaire ; l’État ainsi gouverné ; Selon le CNRTL, il y a de nombreux
-      éléments de définiton mais celui-ci convient pas trop mal : Organisation
-      politique d'un État où le pouvoir est non héréditaire, partagé et exercé
-      par les représentants (généralement élus) d'une partie ou de la totalité
-      de la population. Le CNRTL spécifie notamment une nuance importante,
-      c'est que ce mode d'organisation politique s'oppose à la monarchie.
+%% Bon... Je n'ai pas trop envie de me fatiguer à expliquer pourquoi la France
+%% est
+%% une démocratie dysfonctionnelle aujourd'hui, d'autant plus que d'autres bien
+%% plus experts en la matière vous l'expliqueront mieux que moi, donc je vous mets
+%% les définitions ci-dessous, pis je vous laisse y méditer. On développera
+%% peut-être avec thèse, antithèse et synthèse le sujet sur ce blog, mais un autre
+%% jour.
 
-    + <u>Démocratie</u> : Étymologiquement, du Grec « Demos » et « Kratos ».
-      Littéralement, le pouvoir du peuple. On retrouve pas mal de définitions
-      sur le site du CNRTL mais j'aime bien celle-ci : Régime politique,
-      système de gouvernement dans lequel le pouvoir est exercé par le peuple,
-      par l'ensemble des citoyens.
+%%     + <u>République</u> : Du latin « res » et « publica ». Littéralement, la «
+%%       chose publique ». Selon le dictionnaire de l'Académie (que je commence à
+%%       apprécier) : Organisation politique où l’exercice de la souveraineté
+%%       appartient à des représentants investis d’un pouvoir exécutif non
+%%       héréditaire ; l’État ainsi gouverné ; Selon le CNRTL, il y a de nombreux
+%%       éléments de définition mais celui-ci convient pas trop mal : Organisation
+%%       politique d'un État où le pouvoir est non héréditaire, partagé et exercé
+%%       par les représentants (généralement élus) d'une partie ou de la totalité
+%%       de la population. Le CNRTL spécifie notamment une nuance importante,
+%%       c'est que ce mode d'organisation politique s'oppose à la monarchie.
 
-    + <u>Dictature</u> : Selon le CNRTL toujours : Régime politique dans lequel le
-      pouvoir est entre les mains d'un seul homme ou d'un groupe restreint qui
-      en use de manière discrétionnaire; (parfois) fonction correspondante.
+%%     + <u>Démocratie</u> : Étymologiquement, du Grec « Demos » et « Kratos ».
+%%       Littéralement, le pouvoir du peuple. On retrouve pas mal de définitions
+%%       sur le site du CNRTL mais j'aime bien celle-ci : Régime politique,
+%%       système de gouvernement dans lequel le pouvoir est exercé par le peuple,
+%%       par l'ensemble des citoyens.
 
-Bien, maintenant que nous sommes d'accords sur les définitions, que je
-n'invente pas, vous pourrez vérifier, let us dig in.
+%%     + <u>Dictature</u> : Selon le CNRTL toujours : Régime politique dans lequel le
+%%       pouvoir est entre les mains d'un seul homme ou d'un groupe restreint qui
+%%       en use de manière discrétionnaire; (parfois) fonction correspondante.
 
 
+---
 + parce qu'être dépendant des réseaux sociaux et de leur politique du moment,
   ça craint
 + quitter wordpress pour reprendre le contrôle total sur mon site web à moindre coût (notamment de mon nom de domaine)
@@ -89,3 +94,10 @@ n'invente pas, vous pourrez vérifier, let us dig in.
   format pour vous, ne vous laissez pas arrêter par cet argument de perdant
 + Qu'est-ce qu'un système démocratique ?
 + Délit d'opinion, qui décide ?
+
+## Conclusion
+
+Vous l'aurez compris, j'ai remis ce blog au goût du jour pour donner mon
+avis... Sur tout et sur rien, je vous rassure, je n'ai pas l'intention de
+devenir activiste (non, vraiment, pitié, tout mais pas ça).
+%% Je me tape juste un kiff, c'est tout. Pis je suis chez moi ici, je fais ce que je veux wesh.
