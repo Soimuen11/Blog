@@ -9,14 +9,14 @@ date: 2026-08-08 14:30:00
 Je ne sais même pas pourquoi je me fatigue à mettre un sous-titre... Mais on
 s'en fout, c'est pas grave, moving on !
 
-Certains d'entre vous s'en seront peut-être rendus compte mais je n'ai plus été
+Certains d'entre vous s'en seront peut-être rendu compte mais je n'ai plus été
 particulièrement actif sur mon WordPress depuis 2022. C'est le sujet de ce
 post. J'aimerais revenir sur ce qu'il s'est passé dans ma vie ces dernières
 années, pourquoi j'ai cessé d'être assidu mais aussi pour quelles raisons j'ai
 décidé de retenter l'aventure.
 
 Tout d'abord, pour ma défense, j'aimerais dire que je n'ai pas cessé d'écrire.
-Je ne publiais plus sur mon WordPress mais je n'en ai pas moins continué de
+Je ne publiais plus sur mon blog mais je n'en ai pas moins continué de
 travailler sur plusieurs œuvres que j'espère publier un jour : un recueil de
 poèmes, une pièce de théâtre ainsi qu'une trilogie de fantasy (dont le
 brouillon du premier tome est désormais achevé). Il y a encore une certaine
@@ -66,7 +66,7 @@ aussi pour accéder à des requêtes plus ou moins farfelues sur l'échelle de
 Richter (« Oui, bonjour, j'aimerais bien ouvrir un ticket pour avoir un IPhone
 14, un clavier gaming, une souris... » - *Mais zyva t'as cru c'était Noël ??*).
 
-Je ne parlerais pas non plus de la quantité incalculable de fois où j'ai reçu
+Je ne parlerai pas non plus de la quantité incalculable de fois où j'ai reçu
 des appels de l'étranger (du continent africain notamment) pour des personnes
 en déplacement international qui avaient oublié leur mot de passe Active
 Directory pendant les vacances, ne pouvant ainsi plus ouvrir leur session
