@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Mon TOUT PREMIER post !! 🥳"
-date: 2026-07-22 14:30:00
+published: true
+categories: personal
+tags: blogging, wordpress, jekyll
 ---
 
 # Hello World !

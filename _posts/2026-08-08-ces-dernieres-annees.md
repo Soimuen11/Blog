@@ -2,6 +2,9 @@
 layout: post
 title:  "Que suis-je devenu depuis 2022 ? - Épisode 1"
 date: 2026-08-08 14:30:00
+published: true
+categories: personal
+tags: IT, sysadmin
 ---
 
 ## Une petite intro dans les règles ?
@@ -76,19 +79,27 @@ l'entreprise ?? Ben je peux pas donc tu vas gentiment renvoyer ton PC par la
 poste au siège. *Déso pas déso !*
 
 J'exagère un peu. En vérité, à l'exception d'une dame qui avait clairement un
-dédoublement de la personnalité, la plupart des appels se passaient bien. Si,
-si, je vous assure. Pis c'est du passé, inutile de remuer ça de trop près.
+dédoublement de la personnalité (je vous promets que je n'exagère pas), la
+plupart des appels se passaient bien. Si, si, je vous assure. Pis c'est du
+passé, inutile de remuer ça de trop près.
 
 Bref, en ayant marre des diableries HP, Canon et autres dingueries
-imprimantesques, j'ai eu le privilège d'évoluer en tant qu'administrateur
-système Linux, Unix et Stockage au sein de cette même entreprise qui m'a tant
-appris (et je lui en suis extrêmement reconnaissant).
+imprimantesques, j'ai eu le privilège d'évoluer en tant qu'**administrateur**
+**système Linux, Unix et Stockage** au sein de cette même entreprise qui m'a
+tant appris (et je lui en suis extrêmement reconnaissant).
 
 J'allais oublier, mais j'avais aussi une micro entreprise jusqu'en mai 2022. Je
 donnais essentiellement des cours de langues étrangères, et je ne gagnais pas
 très bien ma vie, donc je ne m'attarderai pas sur cette expérience aujourd'hui,
 bien qu'elle m'ait beaucoup apporté. N'hésitez pas à me dire si vous souhaitez
-que j'en parle davantage et je ferai un post à ce sujet.
+que j'en parle davantage et je ferai un post à ce sujet. Si j'ai arrêté en mai,
+c'est pour plusieurs raisons. Pour commencer, le temps plein que je passais à
+répondre au téléphone m'épuisait nerveusement et j'avais de moins en moins de
+disponibilité mentale pour mes clients. Ensuite, je dois reconnaître qu'à 23
+ans, j'avais bien envie de passer plus de temps à sortir avec mes collègues,
+aller danser. Bref, mieux les connaître en dehors du travail plutôt que de me
+tuer au travail jusqu'à 22h ou minuit pour donner des cours à l'international
+qui ne me rapportaient qu'une poignée de figues.
 
 ## On en arrive ainsi à 2023
 
@@ -96,4 +107,4 @@ C'est à la mi-janvier de cette année que j'ai eu la chance inestimable
 d'évoluer sur un poste d'administrateur où je me suis beaucoup épanoui.
 
 Comme ce post commence à devenir un peu long, je vous propose de le couper en
-deux. Je vous raconterai donc la suite au prochain épisode, OK ?
+plusieurs parties. Je vous raconterai donc la suite au prochain épisode, OK ?
