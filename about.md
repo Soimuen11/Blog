@@ -17,9 +17,8 @@ Je vous souhaite une excellente lecture.
 + [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/)
 + [Mon vieux blog](https://madlibrarianwriting.poetry.blog)
 + [Le Free Wiki](https://myfreewiki.phiannetta.xyz)
-%% + [Dotfiles](https://github.com/Soimuen11/Dotfiles)
 
-## Si tu veux me contacter (pour émettre un avis, par exemple, ou m'apprendre un truc)...
+## Si tu veux me contacter (pour émettre un avis, par exemple, ou m'apprendre un truc...)
 
 + Via [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/) en MP.
 + Par ce bon vieux machin qui s'appelle [un mail](mailto:philippe.iannetta-contact@yahoo.com).
