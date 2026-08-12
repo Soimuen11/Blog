@@ -15,9 +15,9 @@ Je vous souhaite une excellente lecture.
 
 + [Portfolio](https://portfolio.phiannetta.xyz)
 + [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/)
-+ [Dotfiles](https://github.com/Soimuen11/Dotfiles)
-+ [The Free Wiki](https://soimuen11.github.io/FreeWiki)
 + [Mon vieux blog](https://madlibrarianwriting.poetry.blog)
++ [Le Free Wiki](https://myfreewiki.phiannetta.xyz)
+%% + [Dotfiles](https://github.com/Soimuen11/Dotfiles)
 
 ## Si tu veux me contacter (pour émettre un avis, par exemple, ou m'apprendre un truc)...
 
