@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Que suis-je devenu depuis 2022 ? - Épisode 2"
-published: false
+published: true
+date: 2026-08-15 14:30:00 -0100
+categories: personal
+tags: sysadmin
 ---
 
 ## Janvier, un mois d'évolution professionnelle ?
