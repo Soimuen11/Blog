@@ -4,6 +4,7 @@ title:  "Mon TOUT PREMIER post !! 🥳"
 published: true
 categories: personal
 tags: blogging, wordpress, jekyll
+author: Philippe Iannetta
 ---
 
 # Hello World !

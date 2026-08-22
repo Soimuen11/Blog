@@ -5,6 +5,7 @@ date: 2026-08-01 14:30:00
 published: true
 categories: personal
 tags: blogging
+author: Philippe Iannetta
 ---
 
 Mesdames & messieurs, chers lecteurs & lectrices...

@@ -5,13 +5,14 @@ published: true
 date: 2026-08-15
 categories: personal
 tags: sysadmin
+author: Philippe Iannetta
 ---
 
 ## Janvier, un mois d'évolution professionnelle ?
 
 C'est encore en janvier, pour la deuxième année consécutive, qu'un heureux
-événement s'est produit : J'ai été promu "Administrateur Systèmes Unix, Linux
-et Stockage" au sein de mon entreprise de l'époque. Je dis janvier mais, en
+événement s'est produit : J'ai été promu **"Administrateur Systèmes Unix, Linux**
+**et Stockage"** au sein de mon entreprise de l'époque. Je dis janvier mais, en
 réalité, cette évolution était en discussion depuis l'été 2022 avec mon
 manager au service desk international et celui qui deviendrait mon nouveau
 manager.
@@ -23,11 +24,12 @@ où nous avons ensuite travaillé ensemble. Je me rappelle tout particulièremen
 de sa métaphore de l'escalier : lorsque l'on relève un tel défi, il faut savoir
 monter les marches l'une après l'autre et apprécier les petites victoires. Si
 l'on se concentre sur l'ensemble, que l'on cherche à monter toutes les marches
-d'un seul coup, on va droit à l'échec. Certains connaîtront peut-être le dicton
-« à chaque jour suffit sa peine » ? Il n'est pas si simple à appliquer mais je
-vous le recommande vivement, cela vous allègera d'un poids si vous avez
-tendance à uniquement voir l'ascension dans son ensemble plutôt qu'en apprécier
-chaque étape.
+d'un seul coup, on va droit à l'échec.
+
+Certains connaîtront peut-être le dicton *« à chaque jour suffit sa peine »* ? Il
+n'est pas si simple à appliquer mais je vous le recommande vivement, cela vous
+allègera d'un poids si vous avez tendance à uniquement voir l'ascension dans
+son ensemble plutôt qu'en apprécier chaque étape.
 
 ## Une année 2023 riche en apprentissage
 

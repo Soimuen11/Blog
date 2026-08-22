@@ -5,6 +5,7 @@ date: 2026-08-08 14:30:00
 published: true
 categories: personal
 tags: IT, sysadmin
+author: Philippe Iannetta
 ---
 
 ## Une petite intro dans les règles ?
