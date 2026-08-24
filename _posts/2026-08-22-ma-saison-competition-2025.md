@@ -27,7 +27,7 @@ Au lycée, je commençai peu à peu à y prendre davantage plaisir, à me rendre
 compte que j'avais des capacités en sommeil et que je pourrais les exploiter.
 Ce ne furent que les prémices de ma prise de conscience que j'avais un
 potentiel (je ne dirai certainement pas celui d'un futur coureur de classe
-mondial, ne me faites pas dire ce que je n'ai pas dit, mais du moins d'un bon
+mondiale, ne me faites pas dire ce que je n'ai pas dit, mais du moins d'un bon
 amateur départemental, pour commencer). En première et en terminale, j'eus pour
 la première fois des envies de courir de ma propre initiative.
 
@@ -150,7 +150,7 @@ C'est à ce moment que j'ai compris que ma pratique passait au niveau supérieur
 De coureur récréatif, je devenais petit à petit un **amateur sérieux**, avec
 des temps qui n'impressionneraient certes aucun professionnel mais déjà
 supérieurs à ceux de beaucoup d'amateurs. Ce constat me motiva à aller chercher
-encore plus loin. Pour cette année, je suis restée à deux séances, parfois
+encore plus loin. Pour cette année, je suis resté à deux séances, parfois
 trois par semaine, lorsque je n'avais aucune douleur suspecte nécessitant plus
 de récupération. En 2026, vous verrez que de nouveaux caps importants seront
 franchis, tant aux niveaux technique, que physique, matériel, organisationnel
