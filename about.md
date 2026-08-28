@@ -36,7 +36,7 @@ Je vous souhaite une excellente lecture et une merveilleuse journée. 🫠
 
 + [Mon Portfolio](https://portfolio.phiannetta.xyz) : Si tu veux jeter un premier coup d'œil à mes projets web.
 + [Mon GitHub](https://github.com/Soimuen11/) : Si tu veux jeter un second coup d'œil plus en détails à mes projets.
-+ [Mon CV][https://cv.phiannetta.xyz] : Si tu veux plus de détails sur mon parcours.
++ [Mon CV](https://cv.phiannetta.xyz) : Si tu veux plus de détails sur mon parcours.
 + [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/) : Si tu veux toujours plus de détails sur mon parcours.
 + [Mon vieux blog](https://madlibrarianwriting.poetry.blog) : Si tu es impatient de lire d'autres contenus made by Philippe Iannetta.
 + [Le Free Wiki](https://myfreewiki.phiannetta.xyz) : Un wiki accessible à tous. Sentez-vous libres de le faire vivre.
