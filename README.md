@@ -4,6 +4,7 @@
 
 # Ideas for blog posts
 
++ Faire des interviews de sportifs ?? -> envoyer des mails à des sportifs qui pourraient être intéressés ?
 + Post WordPress : L'aventure WordPress se termine pour moi -> donner quelques raisons -> rediriger les gens vers https://blog.phiannetta.xyz
 + Écrire un article / ou plusieurs résumant mes expériences et mon parcours de ces dernières années
 + Faire une page listant tous les films et séries que j'ai vu et ceux que je souhaite regarder à l'avenir ?
@@ -25,6 +26,7 @@
 + Lister les pays + endroits en France où je suis allé ; Lister les endroits où je voudrais aller
 + Parler de mon projet de création d'entreprise ?
 + Parler de mes projets de programmation dans le détail (mes difficultés, etc.)
++ Faire un post sur la notion de conflit(s)
 
 # Todos
 
