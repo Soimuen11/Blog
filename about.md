@@ -26,7 +26,7 @@ Mes mots préférés sont : **liberté**, **curiosité** et **générosité**. *
   pour chaque hypothèse qu'il formule, de se déplacer où bon lui semble, mais
   aussi de respecter la liberté d'autrui, qui commence là où finit la sienne.
 + Parce que tout individu a le devoir d'être curieux, qualité que j'estime
-  nécessaire pour continuer à grandir dans un monde en perpétuel évolution.
+  nécessaire pour continuer à grandir dans un monde en perpétuelle évolution.
 + Parce que tout individu, je crois, devrait faire attention à son prochain et
   lui porter assistance s'il en a la possibilité.
 
