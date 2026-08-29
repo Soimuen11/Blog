@@ -186,9 +186,13 @@ inspiré récemment.
 
 + Plus récemment, j'ai aussi pris plaisir à suivre certains grands sportifs qui
   inspirent tant par leurs performances hors du commun que par leur attitude :
-  Jimmy Gressier, Aude Clavier, Nadia Battocletti, Cassandre Beaugrand. Si vous
-  lisez ces mots un jour, sachez que vous êtes de vrais exemples à suivre à mes
-  yeux.
+  [Jimmy Gressier](https://www.athle.fr/athletes/1692235/biographies), [Aude
+  Clavier](https://www.athle.fr/athletes/1897530), [Nadia
+  Battocletti](https://www.fidal.it/atleta/BATTOCLETTI-Nadia/d6iRk5ela2w=),
+  [Cassandre
+  Beaugrand](https://www.equipedefrance.com/athlete/cassandre-beaugrand). Si
+  vous lisez ces mots un jour, sachez que vous êtes de vrais exemples à suivre
+  à mes yeux.
 
 Pour finir, mais je pense que je ne développerai pas trop car ce post est déjà
 très long, j'aimerais ajouter deux capacités plus mentales à ma liste initiale : **l'hypnose** et la **méditation**.
