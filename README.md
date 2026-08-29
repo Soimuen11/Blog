@@ -4,7 +4,7 @@
 
 **Bienvenue sur mon blog ! Un endroit pour parler sport, technologies, Linux, and more !**
 
-[![Live Site](https://img.shields.io/badge/Live-FreeWiki-38bdf8?style=for-the-badge&logo=githubpages&logoColor=white)](https://blog.phiannetta.xyz)
+[![Live Site](https://img.shields.io/badge/Live-Blog-38bdf8?style=for-the-badge&logo=githubpages&logoColor=white)](https://blog.phiannetta.xyz)
 
 </div>
 
