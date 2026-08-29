@@ -177,7 +177,7 @@ satisfaisants.
 J'aimerais aussi partager avec vous les noms des personnes qui m'ont le plus
 inspiré récemment.
 
-+ Vers mi-2026, c'est Trudy Ederle qui m'a durable impressionné à travers le
++ Vers mi-2026, c'est Trudy Ederle qui m'a durablement impressionné à travers le
   biopic réalisé par Disney « Young Woman and the Sea ». Ce film raconte
   l'histoire extraordinaire de comment elle est devenue une nageuse de classe
   internationale, comment elle a traversé la Manche à la force de ses bras et à
