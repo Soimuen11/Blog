@@ -19,7 +19,7 @@ et voyages, Linux et l'IT dans sa globalité, films et séries,
 mes retours sur des livres, les langues étrangères, etc.
 
 Mes mots préférés sont : **liberté**, **curiosité** et **générosité**. *Pourquoi*
-*?*
+*?* 🤔
 
 + Parce que tout individu, dans un système démocratique, naît libre de penser
   ce qu'il souhaite et d'exprimer des opinions sans être accusé de complotisme
