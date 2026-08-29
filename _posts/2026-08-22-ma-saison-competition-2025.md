@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Ma saison de course à pied 2025"
+title:  "Ma saison de course à pied 2025 : Une reprise progressive post-blessure"
 published: true
 date: 2026-08-22
-categories: personal
+categories: Sport
 tags: [sport, "course a pied", 2025, competition]
 author: Philippe Iannetta
 ---

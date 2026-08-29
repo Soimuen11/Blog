@@ -2,7 +2,7 @@
 layout: post
 title:  "Mon TOUT PREMIER post !! 🥳"
 published: true
-categories: personal
+category: Annonces
 tags: blogging, wordpress, jekyll
 author: Philippe Iannetta
 ---

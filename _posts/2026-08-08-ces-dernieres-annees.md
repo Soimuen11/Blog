@@ -3,7 +3,7 @@ layout: post
 title:  "Que suis-je devenu depuis 2022 ? - Épisode 1"
 date: 2026-08-08 14:30:00
 published: true
-categories: personal
+category: Vie Personnelle
 tags: IT, sysadmin
 author: Philippe Iannetta
 ---
@@ -34,7 +34,7 @@ continuant à profiter de la vie.
 ## L'an de grâce 2022
 
 C'est en janvier de cette année là que je reçus un merveilleux cadeau du ciel :
-un job de **technicien helpdesk international** !
+un job de **technicien helpdesk international** à [Econocom](https://econocom.com) !
 
 Après une année 2021 riche en frustration quant à un marché de l'emploi qui ne
 voulait pas de moi et un parcours du combattant de plusieurs années à chercher
@@ -93,14 +93,15 @@ J'allais oublier, mais j'avais aussi une micro entreprise jusqu'en mai 2022. Je
 donnais essentiellement des cours de langues étrangères, et je ne gagnais pas
 très bien ma vie, donc je ne m'attarderai pas sur cette expérience aujourd'hui,
 bien qu'elle m'ait beaucoup apporté. N'hésitez pas à me dire si vous souhaitez
-que j'en parle davantage et je ferai un post à ce sujet. Si j'ai arrêté en mai,
-c'est pour plusieurs raisons. Pour commencer, le temps plein que je passais à
-répondre au téléphone m'épuisait nerveusement et j'avais de moins en moins de
-disponibilité mentale pour mes clients. Ensuite, je dois reconnaître qu'à 23
-ans, j'avais bien envie de passer plus de temps à sortir avec mes collègues,
-aller danser. Bref, mieux les connaître en dehors du travail plutôt que de me
-tuer au travail jusqu'à 22h ou minuit pour donner des cours à l'international
-qui ne me rapportaient qu'une poignée de figues.
+que j'en parle davantage et je ferai un post à ce sujet.
+
+Si j'ai arrêté en mai, c'est pour plusieurs raisons. Pour commencer, le temps
+plein que je passais à répondre au téléphone m'épuisait nerveusement et j'avais
+de moins en moins de disponibilité mentale pour mes clients. Ensuite, je dois
+reconnaître qu'à 23 ans, j'avais bien envie de passer plus de temps à sortir
+avec mes collègues, aller danser. Bref, mieux les connaître en dehors du
+travail plutôt que de me tuer au travail jusqu'à 22h ou minuit pour donner des
+cours à l'international qui ne me rapportaient qu'une poignée de figues.
 
 ## On en arrive ainsi à 2023
 
@@ -108,4 +109,4 @@ C'est à la mi-janvier de cette année que j'ai eu la chance inestimable
 d'évoluer sur un poste d'administrateur où je me suis beaucoup épanoui.
 
 Comme ce post commence à devenir un peu long, je vous propose de le couper en
-plusieurs parties. Je vous raconterai donc la suite au prochain épisode, OK ?
+plusieurs parties. Je vous raconterai donc la suite [au prochain épisode](https://blog.phiannetta.xyz/personal/2026/08/15/ces-dernieres-annees-2/), OK ?
