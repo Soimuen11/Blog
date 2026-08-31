@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quel rythme de publication pour ce blog ? 📄"
+title:  "Quel rythme de publication pour ce blog ?"
 date: 2026-08-01 14:30:00
 published: true
 category: Annonces
