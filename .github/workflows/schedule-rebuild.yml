@@ -1,0 +1,32 @@
+name: Schedule Jekyll Post Publishing
+
+on:
+  schedule:
+    # Runs every Wednesday+Saturday at 12:30 PM UTC (14:30 PM CET)
+    - cron: '30 12 * * 3,6'
+
+  # Allows manual triggering from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: $
+
+    - name: Configure Git
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+
+    - name: Trigger rebuild for scheduled posts
+      run: |
+        git commit --allow-empty -m "chore: trigger rebuild for scheduled posts"
+        git push
