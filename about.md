@@ -9,9 +9,9 @@ Je suis [Philippe
 Iannetta](https://www.linkedin.com/in/philippe-iannetta-2418232b3/), ravi de
 vous connaître ! 🙂
 
-En tant que libre penseur, j'aime proposer *ma réflexion* aux autres, qui sont
-bien sûr libres à leur tour de contester mes opinions, du moment que leur
-contestation prend une forme constructive. 😉
+En tant qu'explorateur de la vie & libre penseur, j'aime proposer *ma
+réflexion* aux autres, qui sont bien sûr libres à leur tour de contester mes
+opinions, du moment que leur contestation prend une forme constructive. 😉
 
 Ayant un certain nombre de passions, attendez-vous à lire des posts sur des
 sujets très divers : sports (course à pied, natation, vélo, etc.), randonnées
