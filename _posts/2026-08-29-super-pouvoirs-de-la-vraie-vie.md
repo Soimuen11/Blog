@@ -65,8 +65,8 @@ désir de puissance que l’on peut avoir étant jeune.
 
 Il me semble normal que, à un certain âge, l’enfant veuille faire ses preuves
 auprès de ses pairs. Il souhaite les impressionner, être reconnu. Il cherche
-alors, de façon tout à fait naturel, à dépasser ses parents ou toutes autres
-lui servant de modèles.
+alors, de façon tout à fait naturelle, à dépasser ses parents ou toutes autres
+personnes lui servant de modèles.
 
 # L’attrait du pouvoir
 
@@ -93,7 +93,7 @@ Si l’on ne nait pas avec une force surhumaine, chacun a tout de même ses
 avantages. Certains (ou certaines) ont besoin de moins d’efforts pour être
 beaux (ou belles), d’autres doivent travailler davantage pour parfaire leur
 musculature… Chaque sens peut aussi nous démarquer : l’ouïe, l’odorat, la vue,
-le touché, le goût. Plus on les entretient, plus ils sont aiguisés.
+le toucher, le goût. Plus on les entretient, plus ils sont aiguisés.
 
 ## La mémoire
 
@@ -129,7 +129,7 @@ transition parfaite vers la partie suivante.
 ## La volonté
 
 La volonté est une autre faculté que n’importe qui peut développer. Elle mettra
-davantage de temps à grandir si la graîne n’a pas été arrosée correctement ou
+davantage de temps à grandir si la graine n’a pas été arrosée correctement ou
 plantée suffisamment tôt, mais chaque individu peut faire preuve d’une volonté
 de fer, à sa façon et dans les domaines qui lui parlent directement.
 
