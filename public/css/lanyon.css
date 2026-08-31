@@ -326,6 +326,10 @@ a.sidebar-nav-item:focus {
   color: #9a9a9a;
 }
 
+.post-category {
+  font-style:italic;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
