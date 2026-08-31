@@ -11,7 +11,8 @@ title: Accueil
         {{ post.title }}
       </a>
     </h1>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <!-- <p class="post-category"><a href="https://blog.phiannetta.xyz/pages/categories">{{ page.category }}</a></p> -->
+    <span class="post-date"><em>{{ post.category }}</em> - {{ post.date | date_to_string }}</span>
     <!-- {{ post.content }} -->
     {{ post.content | markdownify | strip_html | truncatewords: 50 }}
   </div>
