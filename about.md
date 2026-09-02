@@ -45,3 +45,6 @@ Je vous souhaite une excellente lecture et une merveilleuse journée. 🫠
 
 + Via [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/) en MP.
 + Par ce bon vieux machin qui s'appelle [un mail](mailto:philippe.iannetta-contact@yahoo.com). Tu connais ?
+
+<script data-goatcounter="https://phiannetta-blog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
