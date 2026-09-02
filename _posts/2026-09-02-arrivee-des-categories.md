@@ -2,6 +2,7 @@
 layout: post
 title:  "L'arrivée tant attendue des catégories"
 published: true
+date: 2026-09-02 12:30
 category: Annonces
 tags: blogging, jekyll, categories
 author: Philippe Iannetta
