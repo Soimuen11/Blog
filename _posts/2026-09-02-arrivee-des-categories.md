@@ -30,7 +30,7 @@ fur et à mesure que mes posts vont s'accumuler.
 
 Je ne promets rien, car je n'ai pas encore décidé si c'était vraiment utile ou
 non (je préfère me concentrer sur le contenu, pour être franc avec vous) mais
-PEUT-ÊTRE, que j'ajouterais des "featured images" à mes posts à un moment
+PEUT-ÊTRE, que j'ajouterai des "featured images" à mes posts à un moment
 donné. Pour ceux qui ne connaissent pas le principe, ce sont des images qui
 accompagnent votre publication. On la voit normalement à gauche du post dans la
 liste sur la page d'accueil et on la retrouve tout en haut de la page, juste
