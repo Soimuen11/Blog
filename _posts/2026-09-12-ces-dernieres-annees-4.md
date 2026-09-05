@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Que suis-je devenu depuis 2022 ? - Épisode 4"
-date: 2026-09-12 14:30:00
-categories: personal
+date: 2026-09-12
+category: Vie Personnelle
 tags: [equitation, ATE, chomage, "course à pied", sport, entrepreunariat]
-published: false
+published: true
 ---
 
 Bonjour à tous ! 🙂
@@ -21,10 +21,11 @@ un coup d'œil pour que vous ayez un peu de contexte :
 Entre fin mai 2025 et début juin, j'ai fait deux randonnées équestres au
 [Vercors à Cheval](https://www.vercors-a-cheval.com/), pour un total de 10
 jours à cheval. Après cette expérience, je me suis convaincu qu'il fallait que
-je retente l'aventure, malgré toute l'eau qui avait coulé sous les ponts depuis
-2018. J'ai donc entâmé les démarches pour pouvoir à minima prétendre à faire la
-      [formation
-      ATE](https://metiers.ffe.com/accompagnateur-de-tourisme-equestre-ate/).
+je retente l'aventure, malgré toute l'eau qui avait coulé sous les ponts depuis 2018.
+J'ai donc entâmé les démarches pour pouvoir à minima prétendre à faire la
+[formation
+ATE](https://metiers.ffe.com/accompagnateur-de-tourisme-equestre-ate/).
+
 Je voulais me donner une vraie chance, pas juste y réfléchir calmement dans ma
 chambre. Pour cela, j'estimais nécessaire de m'engager sur le chemin, puis
 réévaluer à chaque étape si oui ou non je souhaitais toujours aller au bout de
@@ -59,7 +60,7 @@ van, et donc que l'on ne pouvait pas rouler trop vite...)
 
 Je dois dire que ce fut une journée plutôt stressante et du genre éreintante.
 
-Il y avait 3 examens :
+<u>Il y avait 3 examens :</u>
 1. Un parcours en terrain varié (PTV).
 2. L'orientation : 1h pour valider un certain nombre de balises.
 3. Un entretien de motivation.
@@ -90,3 +91,5 @@ Pour éviter davantage de longueur, je vous propose de lire [l'épisode
 5](https://blog.phiannetta.xyz/personal/2026/09/19/ces-dernieres-annees-5/) que
 je publierai le 19 septembre, dans l'après-midi. J'avais espoir que le 4 serait
 le dernier, mais je me suis trompé...
+
+À très bientôt, et bon week-end à tous en attendant ! 😉

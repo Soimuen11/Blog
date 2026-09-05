@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Que suis-je devenu depuis 2022 ? - Épisode 3"
-date: 2026-09-05 14:30:00
-categories: personal
+date: 2026-09-05
+category: Vie Personnelle
 tags: [equitation, ATE]
-published: false
+published: true
 ---
 
 Bonjour à tous ! 🙂
@@ -115,6 +115,8 @@ et je ne vous parle pas de l'administratif ainsi que du temps qu'il m'a ensuite
 fallu pour rentrer en formation. Non, ça, c'est l'objet du prochain post. Je me
 rends compte que celui-ci est déjà très long. Histoire de ne pas bâcler, je
 vous raconterai la suite (et normalement, la fin, si l'on puit dire car je ne
-suis pas encore mort) dans [l'épisode 4](https://blog.phiannetta.xyz/personal/2026/09/12/ces-dernieres-annees-4/) que je publierai le 12 septembre.
+suis pas encore mort) dans [l'épisode
+4](https://blog.phiannetta.xyz/personal/2026/09/12/ces-dernieres-annees-4/) que
+je publierai le 12 septembre.
 
 Allez, bonne semaine à tous et à la prochaine !!
