@@ -17,7 +17,7 @@ un coup d'œil pour que vous ayez un peu de contexte :
 
 # Vers une expérience pas comme les autres...
 
-En juin 2025, je suis donc passée pour la première fois de ma courte existence,
+En juin 2025, je suis donc passé pour la première fois de ma courte existence,
 d'une ESN (Entreprise de Services du Numérique) à une autre, d'Econocom à [Spie
 ICS](https://www.spie.fr/fr/nos-filiales/spie-ics), tout fier d'avoir négocié
 un nouveau contrat avec des conditions qui me convenaient davantage. Quel rêve,
@@ -119,4 +119,4 @@ suis pas encore mort) dans [l'épisode
 4](https://blog.phiannetta.xyz/personal/2026/09/12/ces-dernieres-annees-4/) que
 je publierai le 12 septembre.
 
-Allez, bonne semaine à tous et à la prochaine !!
+[Allez](Allez), bonne semaine à tous et à la prochaine !!
