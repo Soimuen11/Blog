@@ -117,10 +117,11 @@ savoir jusqu'où il pourrait aller. Lorsque j'aurais publié mon post sur ma
 saison 2026, vous comprendrez ce que je veux dire. Je suis très heureux des
 progrès que j'ai fait cette année mais ma pratique de la course à pied m'a
 aussi fait remettre en question mes autres hobbies. Pas parce que je les aime
-moins, juste parce que je ne souhaite pas les prioriser. Cela me permet de
-faire le lien avec l'équitation : j'avais peur de me blesser et de ne plus
-pouvoir courir. Tout le temps où j'étais dans le Vercors, endroit parmi mes
-préférés au monde, je n'arrêtais pas d'y penser, et cela m'empêchait
+moins, juste parce que je ne souhaite pas les prioriser.
+
+Cela me permet de faire le lien avec l'équitation : j'avais peur de me blesser
+et de ne plus pouvoir courir. Tout le temps où j'étais dans le Vercors, endroit
+parmi mes préférés au monde, je n'arrêtais pas d'y penser, et cela m'empêchait
 d'apprécier mon séjour à sa juste valeur. Je ne pensais qu'au fait que cela
 risquait de faire obstacle à mes projets de course à pied, où je me fais
 tellement plaisir.
