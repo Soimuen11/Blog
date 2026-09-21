@@ -22,7 +22,7 @@ un coup d'œil pour que vous ayez un peu de contexte :
 Lorsque j'ai eu validé les tests d'entrée pour rentrer en ATE, s'est posée une
 question plus complexe : comment prendre 6 mois de disponibilité pour réaliser
 la formation sans compromettre le reste de ma vie professionnelle ? Cette
-question en englobait d'autres, tout aussi compliquée :
+question en englobait d'autres, tout aussi compliquées :
 
 + Comment financer et monter mon dossier d'ATE ?
 + Comment partir de Spie dans les meilleures conditions (sans mettre mon équipe en difficulté, notamment) ?
@@ -113,7 +113,7 @@ Je ne sais pas si l'on peut vraiment parler de "révélation", ce serait un mot
 qui me donnerait plus d'importance que je ne mérite. Disons plutôt que j'ai
 toujours eu envie d'explorer ce "potentiel". Je ne parle pas du potentiel d'un
 grand coureur, plutôt de quelqu'un qui a une génétique décente et qui veut
-savoir jusqu'où il pourrait aller. Lorsque j'aurais publié mon post sur ma
+savoir jusqu'où il pourrait aller. Lorsque j'aurai publié mon post sur ma
 saison 2026, vous comprendrez ce que je veux dire. Je suis très heureux des
 progrès que j'ai fait cette année mais ma pratique de la course à pied m'a
 aussi fait remettre en question mes autres hobbies. Pas parce que je les aime
