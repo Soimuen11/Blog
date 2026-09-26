@@ -15,9 +15,9 @@ convaincues que tout individu qui souhaite avoir son mot à dire sur Internet en
 2026 devrait avoir un espace qui lui appartient.
 
 Loin de moi l'idée de cracher mon venin sur les réseaux sociaux, ce n'est
-certainement pas l'objectif. Je ne juge pas non plus ceux qui s'y expriment, ni
-qui que ce soit. D'autres défendent ce point de vue depuis plus longtemps que
-moi. J'aimerais seulement ajouter ma pierre à cet édifice.
+nullement l'objectif. Je ne juge ni ceux qui s'y expriment, ni qui que ce soit.
+D'autres défendent ce point de vue depuis plus longtemps que moi. J'aimerais
+seulement ajouter ma pierre à cet édifice.
 
 ## Comment sauter le pas ?
 
@@ -30,8 +30,9 @@ sites (CMS = Content Management System) comme
 [WordPress](https://wordpress.com), [Wix](https://wix.com), ou autres,
 proposent déjà un service complet, vous assistant de la construction à la mise
 en ligne de votre site. Le service est parfois plus ou moins cher, mais des
-alternatives nettement moins onéreuses existent pour héberger votre site, ou
-même pour gérer le nom de domaine de votre choix.
+alternatives nettement moins onéreuses (avec de l'IA même ! Cf.
+[lovable.dev](https://lovable.dev/)) existent pour héberger votre site, ou même
+pour gérer le nom de domaine de votre choix.
 
 Pour les plus expérimentés en quête de minimalisme, il existe des alternatives
 pour convertir votre site d'une version markdown vers un format html.
@@ -41,9 +42,9 @@ Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jeky
 mais j'aurais également pu m'orienter sur un mix entre
 [Netlify](https://www.netlify.com/) et [Hugo](https://gohugo.io/). Cela me
 permet de sauvegarder facilement et automatiquement mon site à plusieurs endroits, sans qu'il ne
-prenne excessivement de place sur Github ou mon serveur, mais aussi de rédiger
-mes posts en markdown, directement depuis mon éditeur de texte favori : j'ai
-nommé [Vim](https://github.com/vim/vim).
+prenne excessivement de place sur [Github](https://github.com) ou mon serveur, mais aussi de rédiger
+mes posts en markdown, directement depuis mon éditeur de texte favori. J'ai
+nommé : [Vim](https://github.com/vim/vim).
 
 Il me faudrait dédier un post entièrement à mon setup, je ne
 m'attarderai donc pas dessus aujourd'hui, sachez toutefois que le choix que
@@ -61,7 +62,9 @@ souhaite vous partager une réflexion que vous pourrez ensuite vous approprier.
 En Occident, nous nous vantons souvent d'être en république, en démocratie,
 mais aussi de disposer de ce droit inaliénable qu'est la "liberté
 d'expression". Pourtant, cela n'empêche pas que les plateformes principales
-(comme YouTube) suppriment certains contenus jugés "non conformes", non ?
+(comme YouTube) suppriment certains contenus jugés "non conformes", non ? Mais
+par rapport à quels critères ? Sont-ils objectifs ? Les utilisateurs ont-ils
+été consultés pour voter ces critères au préalable ?
 
 Bon, sans rentrer trop dans le détail, car ce n'est pas l'objectif du jour, je
 m'adresse à ceux qui souhaiteraient contourner cette limitation : il vous faut
@@ -69,28 +72,28 @@ m'adresse à ceux qui souhaiteraient contourner cette limitation : il vous faut
 site web.
 
 Je vous mets ci-dessous quelques raisons d'avoir son propre site qui se rejoignent :
-+ Être dépendant des réseaux sociaux et de leur politique du moment, ça craint.
-+ Avoir son propre espace d'expression,  sa propre existence sur le web.
-+ Ne pas être prisonnier d'un algorithme qui sera toujours biaisé.
++ Être dépendant des réseaux sociaux et de leur politique du moment ne vous convient pas.
++ Vous souhaitez avoir votre propre espace d'expression, votre propre existence sur le web, en votre nom et à vos conditions.
++ Ne pas être prisonnier d'un algorithme qui sera toujours biaisé (Ça rejoint le premier point, I know). Il vous favorise peut-être aujourd'hui, mais qu'en sera-t-il demain ?
 + Amener davantage de diversité, faire vivre le web autrement qu'en laissant les grandes plateformes se l'approprier.
 
-Le web est à tout le monde, pas seulement à quelques élus qui s'octroient le droit de l'acheter.
+Le web est à tout le monde, pas seulement à quelques riches élus qui s'octroient le droit de l'acheter.
 Il serait temps que le monde s'en souvienne.
 
 ## Et l'IA, dans tout ce bins ?
 
 Mais Philippe, l'IA elle sait écrire mieux que toi, ça sert plus à rien de
-rédiger du contenu soi-même en 2026. Sois donc un peu moderne non, faut pas
+rédiger du contenu soi-même en 2026. Sois donc un peu moderne, faut pas
 être réfractaire au progrès, non ?
 
 Et gna gna gni et gna gna gna... Pardon my French hein, mais tout ça c'est des
-conneries. Pardon, je veux dire des balivernes. Ceux qui réfléchissent ainsi
-n'iront jamais bien loin dans la vie. Donc, parce qu'un machin qui génère des
-mots aléatoirement pourraient le faire à ma place, je n'aurais plus le droit
-d'exprimer mon avis ? Parce que ce bidule sait écrire, je ne pourrais plus
-écrire ? Parce que cette chose sait dessiner, je ne pourrais plus dessiner ? Et
-quand l'IA saura réfléchir, faudra-t-il que je lui délègue aussi l'usage de mon
-cerveau ?
+conneries. Pardon, je veux dire des balivernes. Ou étaient-ce des billevesées ?
+Ceux qui réfléchissent ainsi n'iront jamais bien loin dans la vie. Donc, parce
+qu'un machin qui génère des mots aléatoirement pourrait le faire à ma place,
+je n'aurais plus le droit d'exprimer mon avis ? Parce que ce bidule sait
+écrire, je ne pourrais plus écrire ? Parce que cette chose sait dessiner, je ne
+pourrais plus dessiner ? Et quand l'IA saura réfléchir, faudra-t-il que je lui
+délègue aussi l'usage de mon cerveau ?
 
 Bon, I think I've made my point. Tout ça, c'est des arguments de perdant. Si
 vous voulez vous éclater à avoir un blog, il n'est certainement pas trop tard
