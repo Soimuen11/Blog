@@ -23,7 +23,7 @@ d'autres nécessitent beaucoup plus de travail, notamment si je veux faire de
 l'analyse de film / livre. Je m'efforce au maximum d'anticiper le contenu que
 je publie avec une voire plusieurs semaines d'avance, mais je ne suis pas sûr
 de pouvoir maintenir ce niveau d'implication avec mon nouveau job (dont je vous
-parlerai davantage une prochaine fois).
+parlerai davantage une prochaine fois) lorsqu'il aura commencé.
 
 Et puis il y aussi le fait que je travaille beaucoup sur d'autres projets
 d'écriture ces derniers temps (notamment un projet de fantasy très chronophage
