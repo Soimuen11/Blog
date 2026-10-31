@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le FreeWiki : un wiki IT libre et gratuit pour tous !"
-published: false
+published: true
 category: IT
 tags: [linux, windows, powershell, bash, troubleshooting, ffmpeg]
 author: Philippe Iannetta
