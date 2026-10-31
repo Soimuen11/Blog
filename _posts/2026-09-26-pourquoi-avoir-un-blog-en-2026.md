@@ -47,7 +47,7 @@ mes posts en markdown, directement depuis mon éditeur de texte favori. J'ai
 nommé : [Vim](https://github.com/vim/vim).
 
 Il me faudrait dédier un post entièrement à mon setup, je ne
-m'attarderai donc pas dessus aujourd'hui, sachez toutefois que le choix que
+m'attarderai donc pas dessus aujourd'hui. Sachez toutefois que le choix que
 j'ai fait m'est extrêmement confortable, exploitant à la fois la puissance de
 Vim et de [Tmux](https://tmux.app/) (deux programmes que je vous recommande
 vivement, notamment si vous passez trop de temps dans votre terminal vous
@@ -87,7 +87,7 @@ rédiger du contenu soi-même en 2026. Sois donc un peu moderne, faut pas
 être réfractaire au progrès, non ?
 
 Et gna gna gni et gna gna gna... Pardon my French hein, mais tout ça c'est des
-conneries. Pardon, je veux dire des balivernes. Ou étaient-ce des billevesées ?
+âneries. Pardon, je veux dire des balivernes. Ou étaient-ce des billevesées ?
 Ceux qui réfléchissent ainsi n'iront jamais bien loin dans la vie. Donc, parce
 qu'un machin qui génère des mots aléatoirement pourrait le faire à ma place,
 je n'aurais plus le droit d'exprimer mon avis ? Parce que ce bidule sait
@@ -95,9 +95,9 @@ je n'aurais plus le droit d'exprimer mon avis ? Parce que ce bidule sait
 pourrais plus dessiner ? Et quand l'IA saura réfléchir, faudra-t-il que je lui
 délègue aussi l'usage de mon cerveau ?
 
-Bon, I think I've made my point. Tout ça, c'est des arguments de perdant. Si
-vous voulez vous éclater à avoir un blog, il n'est certainement pas trop tard
-en 2026. Au contraire, c'est même un excellent moment pour commencer.
+Bon, I think I've made my point. Si vous voulez vous éclater à avoir un blog,
+il n'est certainement pas trop tard en 2026. Au contraire, c'est même un
+excellent moment pour commencer.
 
 ## Conclusion
 
@@ -106,4 +106,6 @@ avis... Sur tout et sur rien (surtout sur rien d'ailleurs), je vous rassure, je
 n'ai pas l'intention de devenir activiste (non, vraiment, pitié, tout mais pas
 ça). Je me tape juste un kiff, c'est tout. Pis je suis chez moi ici, je fais ce
 que je veux wesh (utiliser le mot wesh par exemple, si ça me fait kiffer, vous
-voyez ?).
+voyez ? 😁).
+
+Bon week-end à tous & à bientôt ! 🙂
