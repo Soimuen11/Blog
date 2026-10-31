@@ -3,7 +3,7 @@ layout: post
 title:  "Mon rythme de publication - Épisode 2"
 published: true
 category: Annonces
-tags: blogging
+tag: blogging
 author: Philippe Iannetta
 ---
 
