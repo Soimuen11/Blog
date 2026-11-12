@@ -4,7 +4,7 @@ title:  "Quel rythme de publication pour ce blog ?"
 date: 2026-08-01 14:30:00
 published: true
 category: Annonces
-tags: blogging
+tag: blogging
 author: Philippe Iannetta
 ---
 
