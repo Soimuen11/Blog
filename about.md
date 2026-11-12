@@ -38,8 +38,13 @@ Je vous souhaite une excellente lecture et une merveilleuse journée. 🫠
 + [Mon GitHub](https://github.com/Soimuen11/) : Si tu veux jeter un second coup d'œil plus en détails à mes projets.
 + [Mon CV](https://cv.phiannetta.xyz) : Si tu veux plus de détails sur mon parcours.
 + [LinkedIn](https://www.linkedin.com/in/philippe-iannetta-2418232b3/) : Si tu veux toujours plus de détails sur mon parcours.
-+ [Mon vieux blog](https://madlibrarianwriting.poetry.blog) : Si tu es impatient de lire d'autres contenus made by Philippe Iannetta.
 + [Le Free Wiki](https://freewiki.phiannetta.xyz) : Un wiki accessible à tous. Sentez-vous libres de le faire vivre.
++ [Mon Splity](https://mysplity.com/athlete/iannetta+philippe?annee=1998) : Si tu veux suivre mes résultats en compétition de course à pied.
+
+## Si tu veux lire plus de contenus de moi
+
++ [Le Jardin des Esperluettes](https://jd-esperluettes.fr/profile/filippowayne) : J'y publie progressivement un projet de fantasy.
++ [Mon vieux blog](https://madlibrarianwriting.poetry.blog) : Tu y trouveras de tout. Poèmes, nouvelles, critiques de film, du Linux, etc.
 
 ## Si tu veux me contacter (pour émettre un avis, par exemple, ou m'apprendre un truc...)
 
