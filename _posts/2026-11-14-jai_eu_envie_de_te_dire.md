@@ -2,7 +2,7 @@
 layout: post
 title:  "« J'ai eu envie de te dire... »"
 category: Écriture créative
-published: false
+published: true
 author: Philippe Iannetta
 ---
 
