@@ -17,8 +17,8 @@ partager avec vous. Vous serez ainsi libres de me faire ou non des retours.
 Qu'ils soient positifs ou plus critiques, n'hésitez surtout pas. J'accepte tout
 retour constructif qui me permettra d'améliorer ma plume.
 
-Dans ce premier épisode, je souhaitais remettre à l'honneur mon tout premier
-livre. Malgré tous ses défauts, j'en suis particulièrement fier, bien que ce ne
+Dans ce premier épisode, je souhaitais remettre à l'honneur *mon tout premier livre*.
+Malgré tous ses défauts, j'en suis particulièrement fier, bien que ce ne
 soit qu'un recueil de nouvelles.
 
 ## Le résumé du livre
@@ -64,10 +64,12 @@ vendeur, je me suis laissé tenter par KDP.
 ## Mes autres projets
 
 Je publie au fur et à mesure le tome 1 de mon projet de fantasy "Les Fleurs de
-Sophie" sur le Jardin des Esperluettes et sur Wattpad. Pour me soutenir, vous
-pouvez aussi aller y jeter un œil et me laisser un commentaire. Ce sera très
-apprécié. Je prends tous les commentaires qui pourraient m'aider à faire
-progresser mon écriture.
+Sophie" sur le [Jardin des
+Esperluettes](https://jd-esperluettes.fr/stories/les-fleurs-de-sophie-310) et
+sur [Wattpad](https://www.wattpad.com/myworks/417131307-les-fleurs-de-sophie).
+Pour me soutenir, vous pouvez aussi aller y jeter un œil et me laisser un
+commentaire. Ce sera très apprécié. Je prends tous les commentaires qui
+pourraient m'aider à faire progresser mon écriture.
 
 J'espère aussi publier mon recueil de poèmes « Poésie Perdue » prochainement,
 toujours via KDP. Je vous tiendrai au courant.
@@ -77,7 +79,7 @@ toujours via KDP. Je vous tiendrai au courant.
 Si vous souhaitez lire un extrait, je vous invite à vous rendre sur
 [Booknode](https://booknode.com/les_arcanes_obscures_de_limaginaire_03124573).
 Si vous décidez un jour d'acheter mon premier livre, n'hésitez pas laisser un
-commentaire sur Amazon ou sur Booknode pour soutenir mon travail. Cela m'aidera
+commentaire sur Amazon ou sur [Booknode](https://booknode.com/les_arcanes_obscures_de_limaginaire_03124573) pour soutenir mon travail. Cela m'aidera
 considérablement (notamment à affiner ma plume mais aussi pour donner plus
 de visibilité à ce projet) !
 
