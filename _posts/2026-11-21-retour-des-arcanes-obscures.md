@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mes projets d'écriture - Épisode 1 : Les Arcanes Obscures de l'Imaginaire"
-published: false
+published: true
 category: Écriture
 tags: ["écriture", "méta-écriture"]
 author: Philippe Iannetta
@@ -9,7 +9,7 @@ author: Philippe Iannetta
 
 Bonjour à tous !
 
-J'espère que vous avez tous passé une bonne semaine ! 🙂
+J'espère que vous avez passé une bonne semaine ! 🙂
 
 J'ai décidé de commencer une nouvelle série de posts sur **mes projets d'écriture**.
 Ces projets me tiennent beaucoup à cœur, j'ai donc envie de les
